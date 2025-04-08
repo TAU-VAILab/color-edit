@@ -71,6 +71,27 @@ li {
 	font-weight: bold;
 }
 
+.skyblue {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: skyblue;
+	font-weight: bold;
+}
+
+.lightcyan {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: lightcyan;
+	font-weight: bold;
+}
+
+.hotpink {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: hotpink;
+	font-weight: bold;
+}
+
 .video-label {
     font-family: "Noto Sans", Arial;
     font-size: 1.8vw;
@@ -200,7 +221,7 @@ li {
 }
 
 .tizer-container {
-    width: 45%;
+    width: 35%;
     margin: 0 auto;
     margin-bottom: 30px;
 }
