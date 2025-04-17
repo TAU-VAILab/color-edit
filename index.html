@@ -217,7 +217,7 @@ Exploring Color Perception in Text-to-Image Models" />
                 <br>Given an input image Is and a target prompt P containing multiple color attributes: <br><br>
                 🌍 We preform DDIM inversion to get the latents Zt. <br><br>
                 💡 Inspired by the psychological Stroop effect, in the upper branch we preform backward process 
-                using the simplified color-less text prompt Psimp and extract the final cross-attention map of each object. <br><br>
+                using the simplified color-less text prompt Psimp and extract the pseudo-GT cross-attention map of each object. <br><br>
                 🔍 Finally, in the lower branch we preform another backward process this time using the target prompt, at each step we utilize
                 two objectives to guide our inference-time optimization procedure: an attention loss that binds colors 
                 to the right object and a color loss that gets the right colors.<br><br>
