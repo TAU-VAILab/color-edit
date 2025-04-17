@@ -167,21 +167,23 @@ Exploring Color Perception in Text-to-Image Models" />
             <hr>
             <h2 align="center">The ColorPrompts Benchmark</h2>         
             <p class="has-text-justified">
-                In spite of advances in image generation, it remains a question whether current state-of-the-art models can adhere to
-                object attributes that are specified in the prompt. This is especially true when the prompt asks for multiple objects.
-                For example, when asked to generate an image of “a red colored rose and a blue colored lily”, we find that many current 
-                techniques produce a whiter lily than expected.
-                To evaluate color fidelity with complex multi-object prompts in text-to-image models, we build our benchmark by creating pairs
-                of colors for prompts structured as “a {color1} colored {object1} and a {color2} colored {object2}.” A key factor here is the
+                We constructed the ColorPrompts benchmark to evaluate color fidelity in text-to-image models. 
+                Our benchmark focus on complex multi-object prompts as it remains a question whether current 
+                state-of-the-art models can adhere to it, we focus on colors.
+                We build our benchmark by creating pairs
+                of colors for prompts structured as “a {color1} colored {object1} and a {color2} colored {object2}.”
+                A key factor here is the
                 perceptual similarity of the colors. On the one hand, if the two colors are similar, then the model may still succeed at a reasonable
                 generation even if it mixes the colors. On the other hand, similar perceptual colors may pose a challenge for methods which try to ensure 
                 that the generated objects have distinct attributes. As such, we classify the pairs into two types: close and distant, based on their perceptual 
-                similarity in the CIELAB color space. Close colors are those that appear visually similar to the human eye, low LAB distance (e.g., <span class="skyblue">SkyBlue</span> vs. <span class="lightcyan">LightCyan</span>), 
-                while distant colors are distinctly different, high LAB distance (e.g., <span class="skyblue">SkyBlue</span> vs. <span class="hotpink">HotPink</span>).
+                similarity in the CIELAB color space.<br>
+                <br>
             </p>
             <div class="im_container has-text-justified" width="90%" align="center">
                 <img align="center" src="images/close_distant2.png" alt="Overview" style="display: block; margin: 0 auto; width: 70%;">
             </div> 
+            <br>Close colors are those that appear visually similar to the human eye, low LAB distance (e.g., <span class="skyblue">SkyBlue</span> vs. <span class="lightcyan">LightCyan</span>), 
+            while distant colors are distinctly different, high LAB distance (e.g., <span class="skyblue">SkyBlue</span> vs. <span class="hotpink">HotPink</span>).
         <div class="attn-grid-vid-container">
             
         </div>
@@ -193,35 +195,33 @@ Exploring Color Perception in Text-to-Image Models" />
     <section class="method-section" width="100%">
         <div class="method-container">
             <hr>
-            <h2 align="center">ColorEdit - Inference-Time Color Editing</h2>           
+            <h2 align="center">ColorEdit - Our Inference-Time Color Editing Method</h2>           
             <p class="has-text-justified">
-                We desire to correct this problem so as to allow users to precisely control the color 
-                of the generated objects. For the sake of generality and to allow our approach to be 
-                relevant for future generative models as well, we frame our task as an editing task: 
-                the input to our system is a prompt P with color attributes (e.g., “A teal cup and a pink spoon”) 
-                and a source image Is with the right objects but potentially the wrong colors. This also allows us 
-                to edit real images instead of generated ones. To further enable precise control, we assume that the 
-                colors come with specified RGB values (e.g., “teal” = (0,128,128) ). Our goal is to edit the image Is 
-                so that it matches the color specification as closely as possible, while preserving its overall appearance 
-                and structure and still producing a high quality image.
-                We introduce an inference-time approach that utilizes attention-based diffusion models for editing existing images to 
-                match color specifications. In particular, we propose two objectives for guiding our optimization scheme: an attention loss 
+                We introduce ColorEdit an inference-time approach that utilizes attention-based diffusion models for editing real/generated images to 
+                match color specifications.
+                Our goal is to edit the image Is so that it matches the color specification as closely as possible, while preserving its overall appearance 
+                and structure and still producing a high quality image.<br>
+                <br>
+                <!-- In particular, we propose two objectives for guiding our optimization scheme: an attention loss 
                 for binding the colors to the right object and a color loss that forces objects to have the right color. 
                 A key insight enabling our proposed attention loss is that a simplified color-less reference text prompt can provide supervision for 
                 grounding noisy attention maps. Inspired by the psychological Stroop effect which suggests that incongruent stimuli such as color words 
                 printed in differing colors (e.g. “blue” printed in red) have a stronger interference effect, our loss is built on the premise that misalignments 
                 in attribute binding leads to errors in the attention maps. Hence, we propose a loss that encourages the cross-attention maps of the full prompt 
-                to be more congruent to the simplified reference prompt, thus allowing for binding the colors to the correct image regions.
+                to be more congruent to the simplified reference prompt, thus allowing for binding the colors to the correct image regions.  -->
             </p>
             <div class="im_container has-text-justified" width="90%" align="center">
                 <img align="center" src="images/overview_fg.png" alt="Overview" style="display: block; margin: 0 auto; width: 80%;">
             </div> 
             <p class="has-text-justified">
-                Given an input image and a target prompt P containing multiple color attributes, we present an approach for editing
-                the image to match the color specification while preserving all other attributes. Our final edited result is illustrated 
-                on the bottom right. Two objectives guide our inference-time optimization procedure: an  attention loss that binds colors 
-                to the right object and a color loss that gets the right colors; for simplicity we only demonstrate these for the ``pink spoon" 
-                in the visualization above.
+                <br>Given an input image Is and a target prompt P containing multiple color attributes: <br><br>
+                🌍 We preform DDIM inversion to get the latents Zt. <br><br>
+                💡 Inspired by the psychological Stroop effect, in the upper branch we preform backward process 
+                using the simplified color-less text prompt Psimp and extract the final cross-attention map of each object. <br><br>
+                🔍 Finally, in the lower branch we preform another backward process this time using the target prompt, at each step we utilize
+                two objectives to guide our inference-time optimization procedure: an attention loss that binds colors 
+                to the right object and a color loss that gets the right colors.<br><br>
+                Our final edited result is illustrated on the bottom right.
             </p>
         <div class="attn-grid-vid-container">
             
