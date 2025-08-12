@@ -9,11 +9,11 @@
     
     <meta property="og:site_name" content="color-edit" />
     <meta property="og:type" content="video.other" />
-    <meta property="og:title" content="Can Roses be Red and Violets Blue?
+    <meta property="og:title" content="Not Every Gift Comes in Gold Paper or with a Red Ribbon:
 Exploring Color Perception in Text-to-Image Models" />
     <meta property="og:description" content="We use voxel grids and 2D diffusion to make local and global textual edits to 3D shapes" />
     <meta property="og:url" content="https://tau-vailab.github.io/color-edit/" />
-    <meta property="og:image" content="https://tau-vailab.github.io/color-edit/images/voxe_sample.png" /> -->
+    <meta property="og:image" content="https://tau-vailab.github.io/color-edit/images/voxe_sample.png" /> 
 
     <meta property="article:publisher" content="https://tau-vailab.github.io/Vox-E/" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -22,7 +22,7 @@ Exploring Color Perception in Text-to-Image Models" />
     <meta name="twitter:url" content="https://tau-vailab.github.io/Vox-E/" />
     <meta name="twitter:image" content="https://tau-vailab.github.io/Vox-E/images/voxe_sample.png" />
 
-    <title>Can Roses be Red and Violets Blue?
+    <title>Not Every Gift Comes in Gold Paper or with a Red Ribbon:
         Exploring Color Perception in Text-to-Image Models</title>
    <link rel="icon" href="../pics/wis_logo.jpg">
     <link rel="icon" href="images/browser_icon.png">
@@ -37,7 +37,7 @@ Exploring Color Perception in Text-to-Image Models" />
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
     <!-- title -->
-    <h1 class="ourh1" align="center">Can Roses be Red and Violets Blue?</h1>
+    <h1 class="ourh1" align="center">Not Every Gift Comes in Gold Paper or with a Red Ribbon:</h1>
     <h2 class="ourh2" align="center">Exploring Color Perception in Text-to-Image Models</h2>
 
     <!-- authors and affiliations -->
@@ -46,7 +46,7 @@ Exploring Color Perception in Text-to-Image Models" />
             <span class="author-block"><a href="https://shay5510.github.io/" target="_blank">Shay Shomer Chai</a><sup>1</sup>,</span>
             <span class="author-block"><a href="https://lilydaytoy.github.io/" target="_blank">Wenxuan Peng</a><sup>2</sup>,</span>
             <span class="author-block"><a href="https://www.cs.cornell.edu/~bharathh/" target="_blank">Bharath Hariharan</a><sup>2</sup>,</span>
-            <span class="author-block"><a href="https://www.elor.sites.tau.ac.il/" target="_blank">Hadar Averbuch-Elor</a><sup>1</sup></span>
+            <span class="author-block"><a href="https://www.elor.sites.tau.ac.il/" target="_blank">Hadar Averbuch-Elor</a><sup>1 2</sup></span>
         </div>
 
         <div class="affiliations" align="center">
@@ -85,7 +85,7 @@ Exploring Color Perception in Text-to-Image Models" />
                     <span class="icon">
                         <i class="fa fa-github"></i>
                     </span>
-                    <span>Code</span>
+                    <span>Code (Coming Soon)</span>
                   </button>
             </a>
           </span>
@@ -109,8 +109,8 @@ Exploring Color Perception in Text-to-Image Models" />
         <div class="tizer-container">
             <hr>
             <!-- <h2 align="center">How does it work?</h2> -->
-            <div class="im_container has-text-justified" width="90%" align="center">
-                <img align="center" src="images/tizer.png" alt="Overview" width="100%">
+            <div class="im_container has-text-justified" width="100%" align="center">
+                <img align="center" src="images/teaser_july17.png" alt="Overview" width="100%">
             </div>            
             <p class="has-text-justified">
             </p>
@@ -125,10 +125,10 @@ Exploring Color Perception in Text-to-Image Models" />
         <div class="intro-container has-text-justified">
             <div class="intro-paragraph">
                 <p>
-                    Text-to-image generation methods depicted above face challenges in accurately
-                    representing the semantics of multi-subject prompts, such as: "a <span class="prompt_title_local_r">red</span> colored rose and a <span class="prompt_title_local_b">blue</span> colored lily".
+                    Text-to-image generation methods depicted can faithfully render even uncommon colors such as:  <span class="cornflowerblue">CornflowerBlue</span>—in simple, single-object prompts.
+                    However, when faced with multi-color, multi-object prompts,  their performance degrades significantly.
                     In this work, we introduce a new benchmark for exploring this problem (also commonly referred to as multi-attribute leakage), 
-                    and propose an image editing technique, tailored for mitigating it in the case of multiple colors.
+                    and propose an image editing technique, tailored for mitigating it in the case of multiple colors. Our method consistently outperforms existing editing approaches such as AnySD, FPE and MasaCtrl.
                 </p>
             </div>
         </div>
@@ -140,18 +140,26 @@ Exploring Color Perception in Text-to-Image Models" />
             <hr>
             <h2 align="center">Abstract</h2>
             <p class="has-text-justified">
-                Text-to-image generation has recently seen remarkable success, granting users with the ability to create high-quality images
-                through the use of text. However, contemporary methods face challenges in capturing the precise semantics conveyed by complex
-                multi-object prompts. Consequently, many works have sought to mitigate such semantic misalignments, typically via inference-time
-                schemes that modify the attention layers of the denoising networks. However, prior work has mostly utilized coarse metrics, 
-                such as the cosine similarity between text and image CLIP embeddings, visual question-answering capabilities of vision-and-language 
-                models, or human evaluations, which are challenging to conduct on a larger-scale. In this work, we perform a case study on colors---a fundamental attribute 
-                commonly associated with objects in text prompts, which offer a rich test bed for rigorous evaluation. Our analysis reveals that pretrained models struggle 
-                at producing images that adhere to multiple color attributes, significantly more than when provided with a single color specification, while inference-time 
-                techniques cannot robustly resolve these semantic misalignments. Accordingly, we introduce a dedicated image editing technique, mitigating the issue of 
-                multi-object semantic alignment for prompts containing multiple colors. We demonstrate that our approach significantly boosts performance over a 
-                wide range of metrics, considering images generated by various text-to-image diffusion-based techniques. We will make our code, benchmark and 
-                evaluation protocol publicly available.
+                Text-to-image generation has recently seen remarkable success, 
+                granting users with the ability to create high-quality images through 
+                the use of text. However, contemporary methods face challenges in capturing 
+                the precise semantics conveyed by complex multi-object prompts. Consequently, 
+                many works have sought to mitigate such semantic misalignments, typically via 
+                inference-time schemes that modify the attention layers of the denoising networks. 
+                However, prior work has mostly utilized coarse metrics, such as the cosine similarity 
+                between text and image CLIP embeddings, or human evaluations, which are challenging 
+                to conduct on a larger-scale. In this work, we perform a case study on colors---
+                a fundamental attribute commonly associated with objects in text prompts, which 
+                offer a rich test bed for rigorous evaluation. Our analysis reveals that 
+                pretrained models struggle to generate images that faithfully reflect multiple 
+                color attributes—far more so than with single-color prompts—and that neither 
+                inference-time techniques nor existing editing methods reliably resolve these 
+                semantic misalignments.  Accordingly, we introduce a dedicated image editing 
+                technique, mitigating the issue of multi-object semantic alignment for prompts 
+                containing multiple colors. We demonstrate that our approach significantly 
+                boosts performance over a wide range of metrics, considering images generated 
+                by various text-to-image diffusion-based techniques. We will make our code, 
+                benchmark and evaluation protocol publicly available.
             </p>
             <!-- <div class="swipe_vid_container" align="center" width="100%">
                 <video loop autoplay muted width="60%"  class="swipe_video">
@@ -168,15 +176,17 @@ Exploring Color Perception in Text-to-Image Models" />
             <h2 align="center">The ColorPrompts Benchmark</h2>         
             <p class="has-text-justified">
                 We constructed the ColorPrompts benchmark to evaluate color fidelity in text-to-image models. 
-                Our benchmark focus on complex multi-object prompts as it remains a question whether current 
+                Our benchmark focus on complex multi-object prompts, because it remains a question whether current 
                 state-of-the-art models can adhere to it, we focus on colors.
                 We build our benchmark by creating pairs
                 of colors for prompts structured as “a {color1} colored {object1} and a {color2} colored {object2}.”
-                A key factor here is the
+                We distinguish between close and distant colors based on their perceptual 
+                similarity in the CIELAB color space.<br>
+                <!-- A key factor here is the
                 perceptual similarity of the colors. On the one hand, if the two colors are similar, then the model may still succeed at a reasonable
                 generation even if it mixes the colors. On the other hand, similar perceptual colors may pose a challenge for methods which try to ensure 
                 that the generated objects have distinct attributes. As such, we classify the pairs into two types: close and distant, based on their perceptual 
-                similarity in the CIELAB color space.<br>
+                similarity in the CIELAB color space.<br> -->
                 <br>
             </p>
             <div class="im_container has-text-justified" width="90%" align="center">
@@ -195,11 +205,11 @@ Exploring Color Perception in Text-to-Image Models" />
     <section class="method-section" width="100%">
         <div class="method-container">
             <hr>
-            <h2 align="center">ColorEdit - Our Inference-Time Color Editing Method</h2>           
+            <h2 align="center">ColorEdit: Our Inference-Time Color Editing Method</h2>           
             <p class="has-text-justified">
-                We introduce ColorEdit an inference-time approach that utilizes attention-based diffusion models for editing real/generated images to 
+                We introduce ColorEdit, an inference-time approach that utilizes attention-based diffusion models for editing both real and generated images to 
                 match color specifications.
-                Our goal is to edit the image Is so that it matches the color specification as closely as possible, while preserving its overall appearance 
+                Our goal is to edit the image I<sub>s</sub> so that it matches the color specification as closely as possible, while preserving its overall appearance 
                 and structure and still producing a high quality image.<br>
                 <br>
                 <!-- In particular, we propose two objectives for guiding our optimization scheme: an attention loss 
@@ -214,14 +224,19 @@ Exploring Color Perception in Text-to-Image Models" />
                 <img align="center" src="images/overview_fg.png" alt="Overview" style="display: block; margin: 0 auto; width: 80%;">
             </div> 
             <p class="has-text-justified">
-                <br>Given an input image Is and a target prompt P containing multiple color attributes: <br><br>
-                🌍 We preform DDIM inversion to get the latents Zt. <br><br>
-                💡 Inspired by the psychological Stroop effect, in the upper branch we preform backward process 
-                using the simplified color-less text prompt Psimp and extract the pseudo-GT cross-attention map of each object. <br><br>
-                🔍 Finally, in the lower branch we preform another backward process this time using the target prompt, at each step we utilize
-                two objectives to guide our inference-time optimization procedure: an attention loss that binds colors 
-                to the right object and a color loss that gets the right colors.<br><br>
-                Our final edited result is illustrated on the bottom right.
+                <br>Given an input image I<sub>s</sub>  and a target prompt P containing multiple color attributes 
+                we present an approach for editing the image to match the color specification while preserving all other attributes, 
+                our approach operates as follow: <br><br>
+                🌍 We perform DDIM inversion to get the latents Z<sub>T</sub>. <br><br>
+                💡 In the upper branch we perform backward process using simplified color-less text prompt P<sub>simp</sub> and extract the pseudo-GT cross-attention map of each object. <br><br>
+                🔍 Finally, in the lower branch we perform another backward process this time using the target prompt P, at each step we utilize
+                two objectives to guide our inference-time optimization procedure:<br>
+                <ul class="custom-list">
+                    <li>Stroop Attention Loss, inspired by the psychological Stroop effect, that binds colors 
+                        to the right object using the pseudo-GT cross-attention maps of each object.</li>
+                    <li>Color Loss that gets the right colors using the reference RGB value.</li>
+                  </ul>
+                <span style="font-size:150%;color:rgb(255, 234, 0);">★</span> Our final edited result is illustrated on the bottom right image.
             </p>
         <div class="attn-grid-vid-container">
             

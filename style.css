@@ -71,6 +71,13 @@ li {
 	font-weight: bold;
 }
 
+.cornflowerblue {
+    font-family: "Indie Flower", Arial;
+    font-size: 1.8vw;
+	color: cornflowerblue;
+	font-weight: bold;
+}
+
 .skyblue {
     font-family: "Noto Sans", Arial;
     font-size: 18px;
@@ -220,8 +227,28 @@ li {
     margin-bottom: 30px;
 }
 
+ul.custom-list {
+    list-style-type: disc;
+    margin-top: 5px;
+    margin-bottom: 11px; 
+    margin-left: 40px;
+    padding-left: 0;
+    color: #333;
+  }
+
+ul.custom-list li {
+    padding-left: 2px; /* Adds space between bullet and text */
+    margin-bottom: 5px; 
+
+}
+
+ul.custom-list li::marker {
+    color: #8e4585;      /* Bullet color */
+    font-size: 1em;      
+}
+
 .tizer-container {
-    width: 35%;
+    width: 55%;
     margin: 0 auto;
     margin-bottom: 30px;
 }
