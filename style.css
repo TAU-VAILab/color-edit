@@ -1,7 +1,7 @@
 body {
     font-family: 'Noto Sans', sans-serif;
   }
-
+/* 
 h1 {
     font-family: "Noto Sans", Arial;
     font-size: 52px;
@@ -11,11 +11,22 @@ h1 {
 	line-height: 0px;
 	margin-top: 60px;
     font-weight: bold;
+} */
+
+h1 {
+    font-family: "Noto Sans", Arial;
+    font-size: 37px;
+    color: rgb(95, 95, 95);
+    letter-spacing: -1px;
+    word-spacing: 7px;
+	line-height: 0px;
+	margin-top: 60px;
+    font-weight: bold;
 }
 
 h2 {
     font-family: "Noto Sans", Arial;
-    font-size: 35px;
+    font-size: 30px;
     margin-top: 30px;
     margin-bottom: 10px;
     font-weight: bold;
@@ -73,7 +84,7 @@ li {
 
 .cornflowerblue {
     font-family: "Indie Flower", Arial;
-    font-size: 1.8vw;
+    font-size: 18px;
 	color: cornflowerblue;
 	font-weight: bold;
 }
@@ -96,6 +107,36 @@ li {
     font-family: "Noto Sans", Arial;
     font-size: 18px;
 	color: hotpink;
+	font-weight: bold;
+}
+.gray {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: gray;
+	font-weight: bold;
+}
+.lavenderblush {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: lavenderblush;
+	font-weight: bold;
+}
+.cyan {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: cyan;
+	font-weight: bold;
+}
+.black {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: black;
+	font-weight: bold;
+}
+.tomato {
+    font-family: "Noto Sans", Arial;
+    font-size: 18px;
+	color: tomato;
 	font-weight: bold;
 }
 
@@ -180,7 +221,7 @@ li {
 }
 
 .swiper {
-    width: 30%;
+    width: 70%;
     margin-top: 30px;
 }
 
