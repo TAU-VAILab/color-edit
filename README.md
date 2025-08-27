@@ -33,6 +33,6 @@ Exploring Color Perception in Text-to-Image Models**<br>
                 boosts performance over a wide range of metrics, considering images generated 
                 by various text-to-image diffusion-based techniques.
 
-![Graph](https://tau-vailab.github.io/color-edit/images/teaser_july17.png "Flow:")
+![Graph](images/teaser_july17.png "Flow:")
 </br>
 
