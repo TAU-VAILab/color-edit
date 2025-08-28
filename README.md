@@ -1,4 +1,4 @@
-# Not Every Gift Comes in Gold Paper or with a Red Ribbon: <br> Exploring Color Perception in Text-to-Image Models
+# Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models
 
 This is the official pytorch implementation of Color-Edit.
 
