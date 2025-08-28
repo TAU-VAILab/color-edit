@@ -1,8 +1,8 @@
-# Color-Edit: Text-guided Multiple Color Editing of 2D Objects
+# Not Every Gift Comes in Gold Paper or with a Red Ribbon: <br> Exploring Color Perception in Text-to-Image Models
 
 This is the official pytorch implementation of Color-Edit.
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2303.12048-b31b1b.svg)](https://arxiv.org/abs/2303.12048) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2508.19791-b31b1b.svg)](https://arxiv.org/abs/2508.19791)
 <!-- ![Generic badge](https://img.shields.io/badge/conf-ICCV2023-purple.svg) -->
 
 [[Project Website](https://tau-vailab.github.io/color-edit/)]
