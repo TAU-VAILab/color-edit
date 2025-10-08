@@ -1,4 +1,4 @@
-# Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models
+# Color Bind: Exploring Color Perception in Text-to-Image Models
 
 This is the official pytorch implementation of Color-Edit.
 
@@ -7,8 +7,7 @@ This is the official pytorch implementation of Color-Edit.
 
 [[Project Website](https://tau-vailab.github.io/color-edit/)]
 
-> **Not Every Gift Comes in Gold Paper or with a Red Ribbon:<br>
-Exploring Color Perception in Text-to-Image Models**<br>
+> **Color Bind: Exploring Color Perception in Text-to-Image Models**<br>
 > Shay Shomer-Chai<sup>1</sup>, Wenxuan Peng <sup>2</sup>, Bharath Hariharan<sup>2</sup>, Hadar Averbuch-Elor<sup>2</sup><br>
 > <sup>1</sup>Tel Aviv University, <sup>2</sup>Cornell University
 
