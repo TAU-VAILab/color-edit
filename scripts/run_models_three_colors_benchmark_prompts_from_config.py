@@ -173,7 +173,6 @@ def run_manager(models_seeds_dict,run_name,html_color_dict_path,prompts_file_pat
     
     pipe = None
     if models[0] == 'flux_dev':
-        # os.system(" huggingface-cli login --token <YOUR_TOKEN>")
         import sys
         sys.path.append('.')
         from running_scripts.run_flux import pipe

@@ -73,7 +73,7 @@ Our method can run over real/generated images, we can generate across different 
     # three colors
     scripts/run_models_three_colors_benchmark_prompts_from_config.py --config configs/data_creation/sd_1_4_close_distant_3_colors.json
 
-*for flux model you will need to enter you token in this file: scripts/models_data_creation/flux.py and scripts/run_models_three_colors_benchmark_prompts_from_config.py and uncomment the relevent line
+*for flux model make sure to run huggingface-cli login --token <YOUR_TOKEN> before running the script.
 
 Output will be as follow:</br>
 ![Graph](images/folder_structure.png "Flow:")
