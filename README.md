@@ -73,6 +73,8 @@ Our method can run over real/generated images, we can generate across different 
     # three colors
     scripts/run_models_three_colors_benchmark_prompts_from_config.py --config configs/data_creation/sd_1_4_close_distant_3_colors.json
 
+*for flux model you will need to enter you token in this file: scripts/models_data_creation/flux.py and scripts/run_models_three_colors_benchmark_prompts_from_config.py and uncomment the relevent line
+
 Output will be as follow:</br>
 ![Graph](images/folder_structure.png "Flow:")
 
@@ -90,7 +92,7 @@ You will need to edit the script for using the relevant out dirs from data creat
 
 Edit as follow:</br>
 ![Graph](images/prepare_example.png "Flow:")
-*for flux model use "flux" as key and not "FLUX"
+*for flux model use "flux_dev" as key and not "FLUX"
 
 The output for the script is a json containing all images data and metadata including path to the generated SAM masks:</br>
 ![Graph](images/prepare_after_sam.png "Flow:")
