@@ -1,0 +1,24 @@
+{
+    "run_name" : "real_images",
+    "scic_config" : {
+                    "num_segments" : 8,
+                    "background_segment_threshold" : 0.35,
+                    "background_blend_timestep" : 35,
+                    "background_blend_timestep_start" : 35,
+                    "debug": true
+                    },
+    "editor_type_reconstruction" : "AttentionStore",
+    "editor_type_target_prompt" : "SelfCrossAttentionControlColorEdit",
+    "attention_loss_iters" : 10,
+    "attention_loss_weight" : 20,
+    "attnetion_loss_stoping_step" : 35,
+    "attnetion_symmetric_kl_bottom_limit" : 0.1,
+    "color_loss_weight" : 0.75,
+    "color_loss_starting_step" : 25,
+    "use_ref_intermediate_latents" : true,
+    "model_name" : "real_images",
+    "use_SAM" : true,
+    "adjust_single_token_colors": true,
+    "source_images_path_config" : "images/real_images/real_images_data_config.json",
+    "out_dir" : "outputs/repo/ColorEdit/prompts_our_color_with_ref_with_SAM_01al_075cl/real_imgs/"
+}

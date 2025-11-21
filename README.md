@@ -50,11 +50,18 @@ This is the official pytorch implementation of Color-Edit.
 
 </br>
 
+## Add relevant repos to enviroment src
+    cd enviroment/src
+    git clone https://github.com/orpatashnik/local-prompt-mixing.git
+    git clone https://github.com/TencentARC/MasaCtrl.git
+
+</br>
+
 # General Usage
 
 ## Data Creation
 
-Our method can run over real/generated images, we can generate across different model using the configs, you will need to create different config for each model, you can observe scripts/run_models_single_pair_benchmark_prompts_from_config.py for the naming convention
+Our method can run over real/generated images, we can generate across different model using the configs, you will need to create different config for each model, you can observe scripts/run_models_single_pair_benchmark_prompts_from_config.py for the naming convention of each supported model
     
     # ENV: Use the official env for each model
     # single color
@@ -83,6 +90,7 @@ You will need to edit the script for using the relevant out dirs from data creat
 
 Edit as follow:</br>
 ![Graph](images/prepare_example.png "Flow:")
+*for flux model use "flux" as key and not "FLUX"
 
 The output for the script is a json containing all images data and metadata including path to the generated SAM masks:</br>
 ![Graph](images/prepare_after_sam.png "Flow:")

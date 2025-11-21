@@ -1,0 +1,1402 @@
+{
+    "mediumvioletred": {
+        "HEX": "C71585",
+        "RGB": [
+            199,
+            21,
+            133
+        ],
+        "color_name": "mediumvioletred",
+        "base_color_name": "pink"
+    },
+    "deeppink": {
+        "HEX": "FF1493",
+        "RGB": [
+            255,
+            20,
+            147
+        ],
+        "color_name": "deeppink",
+        "base_color_name": "pink"
+    },
+    "palevioletred": {
+        "HEX": "DB7093",
+        "RGB": [
+            219,
+            112,
+            147
+        ],
+        "color_name": "palevioletred",
+        "base_color_name": "pink"
+    },
+    "hotpink": {
+        "HEX": "FF69B4",
+        "RGB": [
+            255,
+            105,
+            180
+        ],
+        "color_name": "hotpink",
+        "base_color_name": "pink"
+    },
+    "lightpink": {
+        "HEX": "FFB6C1",
+        "RGB": [
+            255,
+            182,
+            193
+        ],
+        "color_name": "lightpink",
+        "base_color_name": "pink"
+    },
+    "pink": {
+        "HEX": "FFC0CB",
+        "RGB": [
+            255,
+            192,
+            203
+        ],
+        "color_name": "pink",
+        "base_color_name": "pink"
+    },
+    "darkred": {
+        "HEX": "8B0000",
+        "RGB": [
+            139,
+            0,
+            0
+        ],
+        "color_name": "darkred",
+        "base_color_name": "red"
+    },
+    "red": {
+        "HEX": "FF0000",
+        "RGB": [
+            255,
+            0,
+            0
+        ],
+        "color_name": "red",
+        "base_color_name": "red"
+    },
+    "firebrick": {
+        "HEX": "B22222",
+        "RGB": [
+            178,
+            34,
+            34
+        ],
+        "color_name": "firebrick",
+        "base_color_name": "red"
+    },
+    "crimson": {
+        "HEX": "DC143C",
+        "RGB": [
+            220,
+            20,
+            60
+        ],
+        "color_name": "crimson",
+        "base_color_name": "red"
+    },
+    "indianred": {
+        "HEX": "CD5C5C",
+        "RGB": [
+            205,
+            92,
+            92
+        ],
+        "color_name": "indianred",
+        "base_color_name": "red"
+    },
+    "lightcoral": {
+        "HEX": "F08080",
+        "RGB": [
+            240,
+            128,
+            128
+        ],
+        "color_name": "lightcoral",
+        "base_color_name": "red"
+    },
+    "salmon": {
+        "HEX": "FA8072",
+        "RGB": [
+            250,
+            128,
+            114
+        ],
+        "color_name": "salmon",
+        "base_color_name": "red"
+    },
+    "darksalmon": {
+        "HEX": "E9967A",
+        "RGB": [
+            233,
+            150,
+            122
+        ],
+        "color_name": "darksalmon",
+        "base_color_name": "red"
+    },
+    "lightsalmon": {
+        "HEX": "FFA07A",
+        "RGB": [
+            255,
+            160,
+            122
+        ],
+        "color_name": "lightsalmon",
+        "base_color_name": "red"
+    },
+    "orangered": {
+        "HEX": "FF4500",
+        "RGB": [
+            255,
+            69,
+            0
+        ],
+        "color_name": "orangered",
+        "base_color_name": "orange"
+    },
+    "tomato": {
+        "HEX": "FF6347",
+        "RGB": [
+            255,
+            99,
+            71
+        ],
+        "color_name": "tomato",
+        "base_color_name": "orange"
+    },
+    "darkorange": {
+        "HEX": "FF8C00",
+        "RGB": [
+            255,
+            140,
+            0
+        ],
+        "color_name": "darkorange",
+        "base_color_name": "orange"
+    },
+    "coral": {
+        "HEX": "FF7F50",
+        "RGB": [
+            255,
+            127,
+            80
+        ],
+        "color_name": "coral",
+        "base_color_name": "orange"
+    },
+    "orange": {
+        "HEX": "FFA500",
+        "RGB": [
+            255,
+            165,
+            0
+        ],
+        "color_name": "orange",
+        "base_color_name": "orange"
+    },
+    "darkkhaki": {
+        "HEX": "BDB76B",
+        "RGB": [
+            189,
+            183,
+            107
+        ],
+        "color_name": "darkkhaki",
+        "base_color_name": "yellow"
+    },
+    "gold": {
+        "HEX": "FFD700",
+        "RGB": [
+            255,
+            215,
+            0
+        ],
+        "color_name": "gold",
+        "base_color_name": "yellow"
+    },
+    "khaki": {
+        "HEX": "F0E68C",
+        "RGB": [
+            240,
+            230,
+            140
+        ],
+        "color_name": "khaki",
+        "base_color_name": "yellow"
+    },
+    "peachpuff": {
+        "HEX": "FFDAB9",
+        "RGB": [
+            255,
+            218,
+            185
+        ],
+        "color_name": "peachpuff",
+        "base_color_name": "yellow"
+    },
+    "yellow": {
+        "HEX": "FFFF00",
+        "RGB": [
+            255,
+            255,
+            0
+        ],
+        "color_name": "yellow",
+        "base_color_name": "yellow"
+    },
+    "palegoldenrod": {
+        "HEX": "EEE8AA",
+        "RGB": [
+            238,
+            232,
+            170
+        ],
+        "color_name": "palegoldenrod",
+        "base_color_name": "yellow"
+    },
+    "moccasin": {
+        "HEX": "FFE4B5",
+        "RGB": [
+            255,
+            228,
+            181
+        ],
+        "color_name": "moccasin",
+        "base_color_name": "yellow"
+    },
+    "papayawhip": {
+        "HEX": "FFEFD5",
+        "RGB": [
+            255,
+            239,
+            213
+        ],
+        "color_name": "papayawhip",
+        "base_color_name": "yellow"
+    },
+    "lightgoldenrodyellow": {
+        "HEX": "FAFAD2",
+        "RGB": [
+            250,
+            250,
+            210
+        ],
+        "color_name": "lightgoldenrodyellow",
+        "base_color_name": "yellow"
+    },
+    "lemonchiffon": {
+        "HEX": "FFFACD",
+        "RGB": [
+            255,
+            250,
+            205
+        ],
+        "color_name": "lemonchiffon",
+        "base_color_name": "yellow"
+    },
+    "lightyellow": {
+        "HEX": "FFFFE0",
+        "RGB": [
+            255,
+            255,
+            224
+        ],
+        "color_name": "lightyellow",
+        "base_color_name": "yellow"
+    },
+    "maroon": {
+        "HEX": "800000",
+        "RGB": [
+            128,
+            0,
+            0
+        ],
+        "color_name": "maroon",
+        "base_color_name": "brown"
+    },
+    "brown": {
+        "HEX": "A52A2A",
+        "RGB": [
+            165,
+            42,
+            42
+        ],
+        "color_name": "brown",
+        "base_color_name": "brown"
+    },
+    "saddlebrown": {
+        "HEX": "8B4513",
+        "RGB": [
+            139,
+            69,
+            19
+        ],
+        "color_name": "saddlebrown",
+        "base_color_name": "brown"
+    },
+    "sienna": {
+        "HEX": "A0522D",
+        "RGB": [
+            160,
+            82,
+            45
+        ],
+        "color_name": "sienna",
+        "base_color_name": "brown"
+    },
+    "chocolate": {
+        "HEX": "D2691E",
+        "RGB": [
+            210,
+            105,
+            30
+        ],
+        "color_name": "chocolate",
+        "base_color_name": "brown"
+    },
+    "darkgoldenrod": {
+        "HEX": "B8860B",
+        "RGB": [
+            184,
+            134,
+            11
+        ],
+        "color_name": "darkgoldenrod",
+        "base_color_name": "brown"
+    },
+    "peru": {
+        "HEX": "CD853F",
+        "RGB": [
+            205,
+            133,
+            63
+        ],
+        "color_name": "peru",
+        "base_color_name": "brown"
+    },
+    "rosybrown": {
+        "HEX": "BC8F8F",
+        "RGB": [
+            188,
+            143,
+            143
+        ],
+        "color_name": "rosybrown",
+        "base_color_name": "brown"
+    },
+    "goldenrod": {
+        "HEX": "DAA520",
+        "RGB": [
+            218,
+            165,
+            32
+        ],
+        "color_name": "goldenrod",
+        "base_color_name": "brown"
+    },
+    "sandybrown": {
+        "HEX": "F4A460",
+        "RGB": [
+            244,
+            164,
+            96
+        ],
+        "color_name": "sandybrown",
+        "base_color_name": "brown"
+    },
+    "tan": {
+        "HEX": "D2B48C",
+        "RGB": [
+            210,
+            180,
+            140
+        ],
+        "color_name": "tan",
+        "base_color_name": "brown"
+    },
+    "burlywood": {
+        "HEX": "DEB887",
+        "RGB": [
+            222,
+            184,
+            135
+        ],
+        "color_name": "burlywood",
+        "base_color_name": "brown"
+    },
+    "wheat": {
+        "HEX": "F5DEB3",
+        "RGB": [
+            245,
+            222,
+            179
+        ],
+        "color_name": "wheat",
+        "base_color_name": "brown"
+    },
+    "navajowhite": {
+        "HEX": "FFDEAD",
+        "RGB": [
+            255,
+            222,
+            173
+        ],
+        "color_name": "navajowhite",
+        "base_color_name": "brown"
+    },
+    "bisque": {
+        "HEX": "FFE4C4",
+        "RGB": [
+            255,
+            228,
+            196
+        ],
+        "color_name": "bisque",
+        "base_color_name": "brown"
+    },
+    "blanchedalmond": {
+        "HEX": "FFEBCD",
+        "RGB": [
+            255,
+            235,
+            205
+        ],
+        "color_name": "blanchedalmond",
+        "base_color_name": "brown"
+    },
+    "cornsilk": {
+        "HEX": "FFF8DC",
+        "RGB": [
+            255,
+            248,
+            220
+        ],
+        "color_name": "cornsilk",
+        "base_color_name": "brown"
+    },
+    "indigo": {
+        "HEX": "4B0082",
+        "RGB": [
+            75,
+            0,
+            130
+        ],
+        "color_name": "indigo",
+        "base_color_name": "purple"
+    },
+    "purple": {
+        "HEX": "800080",
+        "RGB": [
+            128,
+            0,
+            128
+        ],
+        "color_name": "purple",
+        "base_color_name": "purple"
+    },
+    "darkmagenta": {
+        "HEX": "8B008B",
+        "RGB": [
+            139,
+            0,
+            139
+        ],
+        "color_name": "darkmagenta",
+        "base_color_name": "purple"
+    },
+    "darkviolet": {
+        "HEX": "9400D3",
+        "RGB": [
+            148,
+            0,
+            211
+        ],
+        "color_name": "darkviolet",
+        "base_color_name": "purple"
+    },
+    "darkslateblue": {
+        "HEX": "483D8B",
+        "RGB": [
+            72,
+            61,
+            139
+        ],
+        "color_name": "darkslateblue",
+        "base_color_name": "purple"
+    },
+    "blueviolet": {
+        "HEX": "8A2BE2",
+        "RGB": [
+            138,
+            43,
+            226
+        ],
+        "color_name": "blueviolet",
+        "base_color_name": "purple"
+    },
+    "darkorchid": {
+        "HEX": "9932CC",
+        "RGB": [
+            153,
+            50,
+            204
+        ],
+        "color_name": "darkorchid",
+        "base_color_name": "purple"
+    },
+    "fuchsia": {
+        "HEX": "FF00FF",
+        "RGB": [
+            255,
+            0,
+            255
+        ],
+        "color_name": "fuchsia",
+        "base_color_name": "purple"
+    },
+    "magenta": {
+        "HEX": "FF00FF",
+        "RGB": [
+            255,
+            0,
+            255
+        ],
+        "color_name": "magenta",
+        "base_color_name": "purple"
+    },
+    "slateblue": {
+        "HEX": "6A5ACD",
+        "RGB": [
+            106,
+            90,
+            205
+        ],
+        "color_name": "slateblue",
+        "base_color_name": "purple"
+    },
+    "mediumslateblue": {
+        "HEX": "7B68EE",
+        "RGB": [
+            123,
+            104,
+            238
+        ],
+        "color_name": "mediumslateblue",
+        "base_color_name": "purple"
+    },
+    "mediumorchid": {
+        "HEX": "BA55D3",
+        "RGB": [
+            186,
+            85,
+            211
+        ],
+        "color_name": "mediumorchid",
+        "base_color_name": "purple"
+    },
+    "mediumpurple": {
+        "HEX": "9370DB",
+        "RGB": [
+            147,
+            112,
+            219
+        ],
+        "color_name": "mediumpurple",
+        "base_color_name": "purple"
+    },
+    "orchid": {
+        "HEX": "DA70D6",
+        "RGB": [
+            218,
+            112,
+            214
+        ],
+        "color_name": "orchid",
+        "base_color_name": "purple"
+    },
+    "violet": {
+        "HEX": "EE82EE",
+        "RGB": [
+            238,
+            130,
+            238
+        ],
+        "color_name": "violet",
+        "base_color_name": "purple"
+    },
+    "plum": {
+        "HEX": "DDA0DD",
+        "RGB": [
+            221,
+            160,
+            221
+        ],
+        "color_name": "plum",
+        "base_color_name": "purple"
+    },
+    "thistle": {
+        "HEX": "D8BFD8",
+        "RGB": [
+            216,
+            191,
+            216
+        ],
+        "color_name": "thistle",
+        "base_color_name": "purple"
+    },
+    "lavender": {
+        "HEX": "E6E6FA",
+        "RGB": [
+            230,
+            230,
+            250
+        ],
+        "color_name": "lavender",
+        "base_color_name": "purple"
+    },
+    "midnightblue": {
+        "HEX": "191970",
+        "RGB": [
+            25,
+            25,
+            112
+        ],
+        "color_name": "midnightblue",
+        "base_color_name": "blue"
+    },
+    "navy": {
+        "HEX": "000080",
+        "RGB": [
+            0,
+            0,
+            128
+        ],
+        "color_name": "navy",
+        "base_color_name": "blue"
+    },
+    "darkblue": {
+        "HEX": "00008B",
+        "RGB": [
+            0,
+            0,
+            139
+        ],
+        "color_name": "darkblue",
+        "base_color_name": "blue"
+    },
+    "mediumblue": {
+        "HEX": "0000CD",
+        "RGB": [
+            0,
+            0,
+            205
+        ],
+        "color_name": "mediumblue",
+        "base_color_name": "blue"
+    },
+    "blue": {
+        "HEX": "0000FF",
+        "RGB": [
+            0,
+            0,
+            255
+        ],
+        "color_name": "blue",
+        "base_color_name": "blue"
+    },
+    "royalblue": {
+        "HEX": "4169E1",
+        "RGB": [
+            65,
+            105,
+            225
+        ],
+        "color_name": "royalblue",
+        "base_color_name": "blue"
+    },
+    "steelblue": {
+        "HEX": "4682B4",
+        "RGB": [
+            70,
+            130,
+            180
+        ],
+        "color_name": "steelblue",
+        "base_color_name": "blue"
+    },
+    "dodgerblue": {
+        "HEX": "1E90FF",
+        "RGB": [
+            30,
+            144,
+            255
+        ],
+        "color_name": "dodgerblue",
+        "base_color_name": "blue"
+    },
+    "deepskyblue": {
+        "HEX": "00BFFF",
+        "RGB": [
+            0,
+            191,
+            255
+        ],
+        "color_name": "deepskyblue",
+        "base_color_name": "blue"
+    },
+    "cornflowerblue": {
+        "HEX": "6495ED",
+        "RGB": [
+            100,
+            149,
+            237
+        ],
+        "color_name": "cornflowerblue",
+        "base_color_name": "blue"
+    },
+    "skyblue": {
+        "HEX": "87CEEB",
+        "RGB": [
+            135,
+            206,
+            235
+        ],
+        "color_name": "skyblue",
+        "base_color_name": "blue"
+    },
+    "lightskyblue": {
+        "HEX": "87CEFA",
+        "RGB": [
+            135,
+            206,
+            250
+        ],
+        "color_name": "lightskyblue",
+        "base_color_name": "blue"
+    },
+    "lightsteelblue": {
+        "HEX": "B0C4DE",
+        "RGB": [
+            176,
+            196,
+            222
+        ],
+        "color_name": "lightsteelblue",
+        "base_color_name": "blue"
+    },
+    "lightblue": {
+        "HEX": "ADD8E6",
+        "RGB": [
+            173,
+            216,
+            230
+        ],
+        "color_name": "lightblue",
+        "base_color_name": "blue"
+    },
+    "powderblue": {
+        "HEX": "B0E0E6",
+        "RGB": [
+            176,
+            224,
+            230
+        ],
+        "color_name": "powderblue",
+        "base_color_name": "blue"
+    },
+    "teal": {
+        "HEX": "008080",
+        "RGB": [
+            0,
+            128,
+            128
+        ],
+        "color_name": "teal",
+        "base_color_name": "aqua"
+    },
+    "darkcyan": {
+        "HEX": "008B8B",
+        "RGB": [
+            0,
+            139,
+            139
+        ],
+        "color_name": "darkcyan",
+        "base_color_name": "aqua"
+    },
+    "lightseagreen": {
+        "HEX": "20B2AA",
+        "RGB": [
+            32,
+            178,
+            170
+        ],
+        "color_name": "lightseagreen",
+        "base_color_name": "aqua"
+    },
+    "cadetblue": {
+        "HEX": "5F9EA0",
+        "RGB": [
+            95,
+            158,
+            160
+        ],
+        "color_name": "cadetblue",
+        "base_color_name": "aqua"
+    },
+    "darkturquoise": {
+        "HEX": "00CED1",
+        "RGB": [
+            0,
+            206,
+            209
+        ],
+        "color_name": "darkturquoise",
+        "base_color_name": "aqua"
+    },
+    "mediumturquoise": {
+        "HEX": "48D1CC",
+        "RGB": [
+            72,
+            209,
+            204
+        ],
+        "color_name": "mediumturquoise",
+        "base_color_name": "aqua"
+    },
+    "turquoise": {
+        "HEX": "40E0D0",
+        "RGB": [
+            64,
+            224,
+            208
+        ],
+        "color_name": "turquoise",
+        "base_color_name": "aqua"
+    },
+    "aqua": {
+        "HEX": "00FFFF",
+        "RGB": [
+            0,
+            255,
+            255
+        ],
+        "color_name": "aqua",
+        "base_color_name": "aqua"
+    },
+    "cyan": {
+        "HEX": "00FFFF",
+        "RGB": [
+            0,
+            255,
+            255
+        ],
+        "color_name": "cyan",
+        "base_color_name": "aqua"
+    },
+    "aquamarine": {
+        "HEX": "7FFFD4",
+        "RGB": [
+            127,
+            255,
+            212
+        ],
+        "color_name": "aquamarine",
+        "base_color_name": "aqua"
+    },
+    "paleturquoise": {
+        "HEX": "AFEEEE",
+        "RGB": [
+            175,
+            238,
+            238
+        ],
+        "color_name": "paleturquoise",
+        "base_color_name": "aqua"
+    },
+    "lightcyan": {
+        "HEX": "E0FFFF",
+        "RGB": [
+            224,
+            255,
+            255
+        ],
+        "color_name": "lightcyan",
+        "base_color_name": "aqua"
+    },
+    "darkgreen": {
+        "HEX": "006400",
+        "RGB": [
+            0,
+            100,
+            0
+        ],
+        "color_name": "darkgreen",
+        "base_color_name": "green"
+    },
+    "green": {
+        "HEX": "008000",
+        "RGB": [
+            0,
+            128,
+            0
+        ],
+        "color_name": "green",
+        "base_color_name": "green"
+    },
+    "darkolivegreen": {
+        "HEX": "556B2F",
+        "RGB": [
+            85,
+            107,
+            47
+        ],
+        "color_name": "darkolivegreen",
+        "base_color_name": "green"
+    },
+    "forestgreen": {
+        "HEX": "228B22",
+        "RGB": [
+            34,
+            139,
+            34
+        ],
+        "color_name": "forestgreen",
+        "base_color_name": "green"
+    },
+    "seagreen": {
+        "HEX": "2E8B57",
+        "RGB": [
+            46,
+            139,
+            87
+        ],
+        "color_name": "seagreen",
+        "base_color_name": "green"
+    },
+    "olive": {
+        "HEX": "808000",
+        "RGB": [
+            128,
+            128,
+            0
+        ],
+        "color_name": "olive",
+        "base_color_name": "green"
+    },
+    "olivedrab": {
+        "HEX": "6B8E23",
+        "RGB": [
+            107,
+            142,
+            35
+        ],
+        "color_name": "olivedrab",
+        "base_color_name": "green"
+    },
+    "mediumseagreen": {
+        "HEX": "3CB371",
+        "RGB": [
+            60,
+            179,
+            113
+        ],
+        "color_name": "mediumseagreen",
+        "base_color_name": "green"
+    },
+    "limegreen": {
+        "HEX": "32CD32",
+        "RGB": [
+            50,
+            205,
+            50
+        ],
+        "color_name": "limegreen",
+        "base_color_name": "green"
+    },
+    "lime": {
+        "HEX": "00FF00",
+        "RGB": [
+            0,
+            255,
+            0
+        ],
+        "color_name": "lime",
+        "base_color_name": "green"
+    },
+    "springgreen": {
+        "HEX": "00FF7F",
+        "RGB": [
+            0,
+            255,
+            127
+        ],
+        "color_name": "springgreen",
+        "base_color_name": "green"
+    },
+    "mediumspringgreen": {
+        "HEX": "00FA9A",
+        "RGB": [
+            0,
+            250,
+            154
+        ],
+        "color_name": "mediumspringgreen",
+        "base_color_name": "green"
+    },
+    "darkseagreen": {
+        "HEX": "8FBC8F",
+        "RGB": [
+            143,
+            188,
+            143
+        ],
+        "color_name": "darkseagreen",
+        "base_color_name": "green"
+    },
+    "mediumaquamarine": {
+        "HEX": "66CDAA",
+        "RGB": [
+            102,
+            205,
+            170
+        ],
+        "color_name": "mediumaquamarine",
+        "base_color_name": "green"
+    },
+    "yellowgreen": {
+        "HEX": "9ACD32",
+        "RGB": [
+            154,
+            205,
+            50
+        ],
+        "color_name": "yellowgreen",
+        "base_color_name": "green"
+    },
+    "lawngreen": {
+        "HEX": "7CFC00",
+        "RGB": [
+            124,
+            252,
+            0
+        ],
+        "color_name": "lawngreen",
+        "base_color_name": "green"
+    },
+    "chartreuse": {
+        "HEX": "7FFF00",
+        "RGB": [
+            127,
+            255,
+            0
+        ],
+        "color_name": "chartreuse",
+        "base_color_name": "green"
+    },
+    "lightgreen": {
+        "HEX": "90EE90",
+        "RGB": [
+            144,
+            238,
+            144
+        ],
+        "color_name": "lightgreen",
+        "base_color_name": "green"
+    },
+    "greenyellow": {
+        "HEX": "ADFF2F",
+        "RGB": [
+            173,
+            255,
+            47
+        ],
+        "color_name": "greenyellow",
+        "base_color_name": "green"
+    },
+    "palegreen": {
+        "HEX": "98FB98",
+        "RGB": [
+            152,
+            251,
+            152
+        ],
+        "color_name": "palegreen",
+        "base_color_name": "green"
+    },
+    "mistyrose": {
+        "HEX": "FFE4E1",
+        "RGB": [
+            255,
+            228,
+            225
+        ],
+        "color_name": "mistyrose",
+        "base_color_name": "white"
+    },
+    "antiquewhite": {
+        "HEX": "FAEBD7",
+        "RGB": [
+            250,
+            235,
+            215
+        ],
+        "color_name": "antiquewhite",
+        "base_color_name": "white"
+    },
+    "linen": {
+        "HEX": "FAF0E6",
+        "RGB": [
+            250,
+            240,
+            230
+        ],
+        "color_name": "linen",
+        "base_color_name": "white"
+    },
+    "beige": {
+        "HEX": "F5F5DC",
+        "RGB": [
+            245,
+            245,
+            220
+        ],
+        "color_name": "beige",
+        "base_color_name": "white"
+    },
+    "whitesmoke": {
+        "HEX": "F5F5F5",
+        "RGB": [
+            245,
+            245,
+            245
+        ],
+        "color_name": "whitesmoke",
+        "base_color_name": "white"
+    },
+    "lavenderblush": {
+        "HEX": "FFF0F5",
+        "RGB": [
+            255,
+            240,
+            245
+        ],
+        "color_name": "lavenderblush",
+        "base_color_name": "white"
+    },
+    "oldlace": {
+        "HEX": "FDF5E6",
+        "RGB": [
+            253,
+            245,
+            230
+        ],
+        "color_name": "oldlace",
+        "base_color_name": "white"
+    },
+    "aliceblue": {
+        "HEX": "F0F8FF",
+        "RGB": [
+            240,
+            248,
+            255
+        ],
+        "color_name": "aliceblue",
+        "base_color_name": "white"
+    },
+    "seashell": {
+        "HEX": "FFF5EE",
+        "RGB": [
+            255,
+            245,
+            238
+        ],
+        "color_name": "seashell",
+        "base_color_name": "white"
+    },
+    "ghostwhite": {
+        "HEX": "F8F8FF",
+        "RGB": [
+            248,
+            248,
+            255
+        ],
+        "color_name": "ghostwhite",
+        "base_color_name": "white"
+    },
+    "honeydew": {
+        "HEX": "F0FFF0",
+        "RGB": [
+            240,
+            255,
+            240
+        ],
+        "color_name": "honeydew",
+        "base_color_name": "white"
+    },
+    "floralwhite": {
+        "HEX": "FFFAF0",
+        "RGB": [
+            255,
+            250,
+            240
+        ],
+        "color_name": "floralwhite",
+        "base_color_name": "white"
+    },
+    "azure": {
+        "HEX": "F0FFFF",
+        "RGB": [
+            240,
+            255,
+            255
+        ],
+        "color_name": "azure",
+        "base_color_name": "white"
+    },
+    "mintcream": {
+        "HEX": "F5FFFA",
+        "RGB": [
+            245,
+            255,
+            250
+        ],
+        "color_name": "mintcream",
+        "base_color_name": "white"
+    },
+    "snow": {
+        "HEX": "FFFAFA",
+        "RGB": [
+            255,
+            250,
+            250
+        ],
+        "color_name": "snow",
+        "base_color_name": "white"
+    },
+    "ivory": {
+        "HEX": "FFFFF0",
+        "RGB": [
+            255,
+            255,
+            240
+        ],
+        "color_name": "ivory",
+        "base_color_name": "white"
+    },
+    "white": {
+        "HEX": "FFFFFF",
+        "RGB": [
+            255,
+            255,
+            255
+        ],
+        "color_name": "white",
+        "base_color_name": "white"
+    },
+    "black": {
+        "HEX": "000000",
+        "RGB": [
+            0,
+            0,
+            0
+        ],
+        "color_name": "black",
+        "base_color_name": "black"
+    },
+    "darkslategray": {
+        "HEX": "2F4F4F",
+        "RGB": [
+            47,
+            79,
+            79
+        ],
+        "color_name": "darkslategray",
+        "base_color_name": "gray"
+    },
+    "dimgray": {
+        "HEX": "696969",
+        "RGB": [
+            105,
+            105,
+            105
+        ],
+        "color_name": "dimgray",
+        "base_color_name": "gray"
+    },
+    "slategray": {
+        "HEX": "708090",
+        "RGB": [
+            112,
+            128,
+            144
+        ],
+        "color_name": "slategray",
+        "base_color_name": "gray"
+    },
+    "gray": {
+        "HEX": "808080",
+        "RGB": [
+            128,
+            128,
+            128
+        ],
+        "color_name": "gray",
+        "base_color_name": "gray"
+    },
+    "lightslategray": {
+        "HEX": "778899",
+        "RGB": [
+            119,
+            136,
+            153
+        ],
+        "color_name": "lightslategray",
+        "base_color_name": "gray"
+    },
+    "darkgray": {
+        "HEX": "A9A9A9",
+        "RGB": [
+            169,
+            169,
+            169
+        ],
+        "color_name": "darkgray",
+        "base_color_name": "gray"
+    },
+    "silver": {
+        "HEX": "C0C0C0",
+        "RGB": [
+            192,
+            192,
+            192
+        ],
+        "color_name": "silver",
+        "base_color_name": "gray"
+    },
+    "lightgray": {
+        "HEX": "D3D3D3",
+        "RGB": [
+            211,
+            211,
+            211
+        ],
+        "color_name": "lightgray",
+        "base_color_name": "gray"
+    },
+    "gainsboro": {
+        "HEX": "DCDCDC",
+        "RGB": [
+            220,
+            220,
+            220
+        ],
+        "color_name": "gainsboro",
+        "base_color_name": "gray"
+    }
+}

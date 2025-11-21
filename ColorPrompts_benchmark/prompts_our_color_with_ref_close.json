@@ -1,0 +1,2929 @@
+{
+    "close": [
+        {
+            "prompt": "a hotpink colored suitcase and a tomato colored hat",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a hotpink colored guitar and a tomato colored crown",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a hotpink colored crown and a tomato colored chair",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a hotpink colored bench and a tomato colored bicycle",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a hotpink colored umbrella and a tomato colored bicycle",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a tomato colored hat and a hotpink colored surfboard",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a tomato colored handbag and a hotpink colored umbrella",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a tomato colored umbrella and a hotpink colored car",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a tomato colored bench and a hotpink colored bicycle",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a tomato colored surfboard and a hotpink colored bench",
+            "ref_color": "HotPink",
+            "compare_color": "Tomato"
+        },
+        {
+            "prompt": "a lightpink colored bench and a silver colored bicycle",
+            "ref_color": "LightPink",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightpink colored handbag and a silver colored bench",
+            "ref_color": "LightPink",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightpink colored shirt and a silver colored bench",
+            "ref_color": "LightPink",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightpink colored suitcase and a silver colored chair",
+            "ref_color": "LightPink",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightpink colored balloon and a silver colored bicycle",
+            "ref_color": "LightPink",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightpink colored hat and a lavenderblush colored pillow",
+            "ref_color": "LightPink",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightpink colored pillow and a lavenderblush colored bench",
+            "ref_color": "LightPink",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightpink colored hat and a lavenderblush colored surfboard",
+            "ref_color": "LightPink",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightpink colored car and a lavenderblush colored bench",
+            "ref_color": "LightPink",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightpink colored balloon and a lavenderblush colored bicycle",
+            "ref_color": "LightPink",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightpink colored bench and a lightgray colored chair",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightpink colored balloon and a lightgray colored chair",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightpink colored bowl and a lightgray colored chair",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightpink colored balloon and a lightgray colored bench",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightpink colored car and a lightgray colored bench",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored bowl and a lightpink colored chair",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored bench and a lightpink colored bicycle",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored pillow and a lightpink colored chair",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored bench and a lightpink colored chair",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored hat and a lightpink colored pillow",
+            "ref_color": "LightPink",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a hotpink colored suitcase and a tomato colored hat",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a hotpink colored guitar and a tomato colored crown",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a hotpink colored crown and a tomato colored chair",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a hotpink colored bench and a tomato colored bicycle",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a hotpink colored umbrella and a tomato colored bicycle",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a tomato colored hat and a hotpink colored surfboard",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a tomato colored handbag and a hotpink colored umbrella",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a tomato colored umbrella and a hotpink colored car",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a tomato colored bench and a hotpink colored bicycle",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a tomato colored surfboard and a hotpink colored bench",
+            "ref_color": "Tomato",
+            "compare_color": "HotPink"
+        },
+        {
+            "prompt": "a tomato colored car and a lightpink colored bench",
+            "ref_color": "Tomato",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a tomato colored backpack and a lightpink colored chair",
+            "ref_color": "Tomato",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a tomato colored pillow and a lightpink colored chair",
+            "ref_color": "Tomato",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a tomato colored pillow and a lightpink colored flower",
+            "ref_color": "Tomato",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a tomato colored shoe and a lightpink colored chair",
+            "ref_color": "Tomato",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a blanchedalmond colored hat and a white colored backpack",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a blanchedalmond colored bow and a white colored balloon",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a blanchedalmond colored shirt and a white colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a blanchedalmond colored handbag and a white colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a blanchedalmond colored handbag and a white colored umbrella",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a blanchedalmond colored pillow and a ghostwhite colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a blanchedalmond colored bowl and a ghostwhite colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a blanchedalmond colored umbrella and a ghostwhite colored bicycle",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a blanchedalmond colored shoe and a ghostwhite colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a blanchedalmond colored balloon and a ghostwhite colored bicycle",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a blanchedalmond colored suitcase and a ivory colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a blanchedalmond colored car and a ivory colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a blanchedalmond colored guitar and a ivory colored suitcase",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a blanchedalmond colored suitcase and a ivory colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a blanchedalmond colored pillow and a ivory colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ghostwhite colored surfboard and a blanchedalmond colored bicycle",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored suitcase and a blanchedalmond colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored shoe and a blanchedalmond colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored pillow and a blanchedalmond colored flower",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored bench and a blanchedalmond colored bicycle",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ivory colored balloon and a blanchedalmond colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored balloon and a blanchedalmond colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored guitar and a blanchedalmond colored suitcase",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored handbag and a blanchedalmond colored bench",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored guitar and a blanchedalmond colored crown",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a white colored hat and a blanchedalmond colored pillow",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a white colored shoe and a blanchedalmond colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a white colored bench and a blanchedalmond colored bicycle",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a white colored suitcase and a blanchedalmond colored chair",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a white colored guitar and a blanchedalmond colored crown",
+            "ref_color": "BlanchedAlmond",
+            "compare_color": "White"
+        },
+        {
+            "prompt": "a steelblue colored hat and a slategray colored pillow",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a steelblue colored pillow and a slategray colored chair",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a steelblue colored suitcase and a slategray colored car",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a steelblue colored shirt and a slategray colored bench",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a steelblue colored crown and a slategray colored chair",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a steelblue colored pillow and a lightslategray colored chair",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a steelblue colored handbag and a lightslategray colored bench",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a steelblue colored pillow and a lightslategray colored flower",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a steelblue colored umbrella and a lightslategray colored car",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a steelblue colored truck and a lightslategray colored bicycle",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a slategray colored crown and a steelblue colored chair",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored pillow and a steelblue colored flower",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored handbag and a steelblue colored umbrella",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored flower and a steelblue colored bicycle",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored surfboard and a steelblue colored bicycle",
+            "ref_color": "SteelBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored handbag and a steelblue colored umbrella",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored balloon and a steelblue colored chair",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored guitar and a steelblue colored crown",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored flower and a steelblue colored bench",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored shoe and a steelblue colored chair",
+            "ref_color": "SteelBlue",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a cornflowerblue colored handbag and a slategray colored umbrella",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a cornflowerblue colored shoe and a slategray colored chair",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a cornflowerblue colored bench and a slategray colored chair",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a cornflowerblue colored pillow and a slategray colored chair",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a cornflowerblue colored bowl and a slategray colored chair",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a cornflowerblue colored suitcase and a gray colored bench",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a cornflowerblue colored shoe and a gray colored chair",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a cornflowerblue colored pillow and a gray colored bench",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a cornflowerblue colored surfboard and a gray colored bicycle",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a cornflowerblue colored bow and a gray colored balloon",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a cornflowerblue colored flower and a silver colored bench",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cornflowerblue colored truck and a silver colored bicycle",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cornflowerblue colored suitcase and a silver colored bench",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cornflowerblue colored hat and a silver colored backpack",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cornflowerblue colored flower and a silver colored bicycle",
+            "ref_color": "CornflowerBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a skyblue colored guitar and a lightgray colored handbag",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a skyblue colored pillow and a lightgray colored bench",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a skyblue colored balloon and a lightgray colored chair",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a skyblue colored surfboard and a lightgray colored bench",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a skyblue colored balloon and a lightgray colored bicycle",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a skyblue colored shirt and a lightcyan colored bench",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a skyblue colored hat and a lightcyan colored backpack",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a skyblue colored crown and a lightcyan colored chair",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a skyblue colored handbag and a lightcyan colored bench",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a skyblue colored hat and a lightcyan colored pillow",
+            "ref_color": "SkyBlue",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a skyblue colored flower and a mediumturquoise colored bench",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a skyblue colored suitcase and a mediumturquoise colored bench",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a skyblue colored surfboard and a mediumturquoise colored bicycle",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a skyblue colored pillow and a mediumturquoise colored flower",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a skyblue colored pillow and a mediumturquoise colored chair",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a mediumturquoise colored guitar and a skyblue colored crown",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a mediumturquoise colored crown and a skyblue colored chair",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a mediumturquoise colored pillow and a skyblue colored flower",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a mediumturquoise colored guitar and a skyblue colored handbag",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a mediumturquoise colored handbag and a skyblue colored umbrella",
+            "ref_color": "SkyBlue",
+            "compare_color": "MediumTurquoise"
+        },
+        {
+            "prompt": "a lightskyblue colored flower and a paleturquoise colored bicycle",
+            "ref_color": "LightSkyBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lightskyblue colored suitcase and a paleturquoise colored bench",
+            "ref_color": "LightSkyBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lightskyblue colored crown and a paleturquoise colored chair",
+            "ref_color": "LightSkyBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lightskyblue colored flower and a paleturquoise colored bench",
+            "ref_color": "LightSkyBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lightskyblue colored surfboard and a paleturquoise colored bicycle",
+            "ref_color": "LightSkyBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lightsteelblue colored hat and a lightgray colored pillow",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightsteelblue colored hat and a lightgray colored backpack",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightsteelblue colored suitcase and a lightgray colored chair",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightsteelblue colored bench and a lightgray colored chair",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightsteelblue colored balloon and a lightgray colored chair",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightsteelblue colored car and a silver colored backpack",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightsteelblue colored surfboard and a silver colored bench",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightsteelblue colored umbrella and a silver colored bicycle",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightsteelblue colored umbrella and a silver colored bench",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightsteelblue colored crown and a silver colored chair",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightsteelblue colored balloon and a ghostwhite colored bicycle",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightsteelblue colored pillow and a ghostwhite colored flower",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightsteelblue colored surfboard and a ghostwhite colored bicycle",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightsteelblue colored bench and a ghostwhite colored bicycle",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightsteelblue colored bench and a ghostwhite colored chair",
+            "ref_color": "LightSteelBlue",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightblue colored hat and a linen colored surfboard",
+            "ref_color": "LightBlue",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a lightblue colored guitar and a linen colored handbag",
+            "ref_color": "LightBlue",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a lightblue colored balloon and a linen colored bench",
+            "ref_color": "LightBlue",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a lightblue colored surfboard and a linen colored bench",
+            "ref_color": "LightBlue",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a lightblue colored pillow and a linen colored bench",
+            "ref_color": "LightBlue",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a lightblue colored umbrella and a snow colored car",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a lightblue colored bench and a snow colored bicycle",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a lightblue colored suitcase and a snow colored bench",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a lightblue colored handbag and a snow colored umbrella",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a lightblue colored car and a snow colored backpack",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a lightblue colored backpack and a silver colored chair",
+            "ref_color": "LightBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightblue colored hat and a silver colored surfboard",
+            "ref_color": "LightBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightblue colored guitar and a silver colored crown",
+            "ref_color": "LightBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightblue colored umbrella and a silver colored bicycle",
+            "ref_color": "LightBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a lightblue colored suitcase and a silver colored chair",
+            "ref_color": "LightBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a snow colored hat and a lightblue colored pillow",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a snow colored hat and a lightblue colored backpack",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a snow colored suitcase and a lightblue colored car",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a snow colored crown and a lightblue colored chair",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a snow colored suitcase and a lightblue colored chair",
+            "ref_color": "LightBlue",
+            "compare_color": "Snow"
+        },
+        {
+            "prompt": "a powderblue colored bench and a paleturquoise colored chair",
+            "ref_color": "PowderBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a powderblue colored suitcase and a paleturquoise colored hat",
+            "ref_color": "PowderBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a powderblue colored bench and a paleturquoise colored bicycle",
+            "ref_color": "PowderBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a powderblue colored shirt and a paleturquoise colored bench",
+            "ref_color": "PowderBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a powderblue colored car and a paleturquoise colored bench",
+            "ref_color": "PowderBlue",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a powderblue colored backpack and a silver colored chair",
+            "ref_color": "PowderBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a powderblue colored umbrella and a silver colored bench",
+            "ref_color": "PowderBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a powderblue colored pillow and a silver colored chair",
+            "ref_color": "PowderBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a powderblue colored pillow and a silver colored bench",
+            "ref_color": "PowderBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a powderblue colored crown and a silver colored chair",
+            "ref_color": "PowderBlue",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a powderblue colored handbag and a lavenderblush colored bench",
+            "ref_color": "PowderBlue",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a powderblue colored truck and a lavenderblush colored bicycle",
+            "ref_color": "PowderBlue",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a powderblue colored suitcase and a lavenderblush colored car",
+            "ref_color": "PowderBlue",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a powderblue colored bow and a lavenderblush colored balloon",
+            "ref_color": "PowderBlue",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a powderblue colored hat and a lavenderblush colored surfboard",
+            "ref_color": "PowderBlue",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a teal colored bench and a lightslategray colored chair",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a teal colored guitar and a lightslategray colored suitcase",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a teal colored suitcase and a lightslategray colored car",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a teal colored suitcase and a lightslategray colored chair",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a teal colored suitcase and a lightslategray colored hat",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a teal colored guitar and a slategray colored crown",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a teal colored pillow and a slategray colored chair",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a teal colored backpack and a slategray colored chair",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a teal colored surfboard and a slategray colored bicycle",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a teal colored pillow and a slategray colored bench",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored suitcase and a teal colored hat",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored guitar and a teal colored suitcase",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored suitcase and a teal colored bench",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored umbrella and a teal colored car",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a slategray colored surfboard and a teal colored bicycle",
+            "ref_color": "Teal",
+            "compare_color": "SlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored suitcase and a teal colored bench",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored shirt and a teal colored bench",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored balloon and a teal colored chair",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored pillow and a teal colored chair",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a lightslategray colored balloon and a teal colored bicycle",
+            "ref_color": "Teal",
+            "compare_color": "LightSlateGray"
+        },
+        {
+            "prompt": "a skyblue colored flower and a mediumturquoise colored bench",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a skyblue colored suitcase and a mediumturquoise colored bench",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a skyblue colored surfboard and a mediumturquoise colored bicycle",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a skyblue colored pillow and a mediumturquoise colored flower",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a skyblue colored pillow and a mediumturquoise colored chair",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored guitar and a skyblue colored crown",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored crown and a skyblue colored chair",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored pillow and a skyblue colored flower",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored guitar and a skyblue colored handbag",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored handbag and a skyblue colored umbrella",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored hat and a lightblue colored pillow",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored bench and a lightblue colored bicycle",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored guitar and a lightblue colored handbag",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored handbag and a lightblue colored umbrella",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored umbrella and a lightblue colored car",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored shoe and a powderblue colored chair",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored car and a powderblue colored bench",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored backpack and a powderblue colored chair",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored crown and a powderblue colored chair",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a mediumturquoise colored bowl and a powderblue colored chair",
+            "ref_color": "MediumTurquoise",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a turquoise colored suitcase and a ghostwhite colored chair",
+            "ref_color": "Turquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a turquoise colored umbrella and a ghostwhite colored bench",
+            "ref_color": "Turquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a turquoise colored surfboard and a ghostwhite colored bench",
+            "ref_color": "Turquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a turquoise colored guitar and a ghostwhite colored crown",
+            "ref_color": "Turquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a turquoise colored surfboard and a ghostwhite colored bicycle",
+            "ref_color": "Turquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a turquoise colored car and a gray colored bench",
+            "ref_color": "Turquoise",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a turquoise colored pillow and a gray colored chair",
+            "ref_color": "Turquoise",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a turquoise colored suitcase and a gray colored car",
+            "ref_color": "Turquoise",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a turquoise colored backpack and a gray colored chair",
+            "ref_color": "Turquoise",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a turquoise colored pillow and a gray colored flower",
+            "ref_color": "Turquoise",
+            "compare_color": "Gray"
+        },
+        {
+            "prompt": "a turquoise colored guitar and a linen colored crown",
+            "ref_color": "Turquoise",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a turquoise colored bowl and a linen colored chair",
+            "ref_color": "Turquoise",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a turquoise colored backpack and a linen colored chair",
+            "ref_color": "Turquoise",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a turquoise colored balloon and a linen colored bench",
+            "ref_color": "Turquoise",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a turquoise colored umbrella and a linen colored car",
+            "ref_color": "Turquoise",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a aqua colored balloon and a powderblue colored bicycle",
+            "ref_color": "Aqua",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a aqua colored surfboard and a powderblue colored bicycle",
+            "ref_color": "Aqua",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a aqua colored suitcase and a powderblue colored bench",
+            "ref_color": "Aqua",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a aqua colored suitcase and a powderblue colored chair",
+            "ref_color": "Aqua",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a aqua colored truck and a powderblue colored bicycle",
+            "ref_color": "Aqua",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a aqua colored car and a skyblue colored backpack",
+            "ref_color": "Aqua",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a aqua colored balloon and a skyblue colored bicycle",
+            "ref_color": "Aqua",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a aqua colored hat and a skyblue colored surfboard",
+            "ref_color": "Aqua",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a aqua colored pillow and a skyblue colored flower",
+            "ref_color": "Aqua",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a aqua colored pillow and a skyblue colored chair",
+            "ref_color": "Aqua",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a aqua colored flower and a lavenderblush colored bench",
+            "ref_color": "Aqua",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a aqua colored truck and a lavenderblush colored bicycle",
+            "ref_color": "Aqua",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a aqua colored handbag and a lavenderblush colored umbrella",
+            "ref_color": "Aqua",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a aqua colored suitcase and a lavenderblush colored bench",
+            "ref_color": "Aqua",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a aqua colored bench and a lavenderblush colored bicycle",
+            "ref_color": "Aqua",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a cyan colored suitcase and a lightblue colored car",
+            "ref_color": "Cyan",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a cyan colored umbrella and a lightblue colored car",
+            "ref_color": "Cyan",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a cyan colored bench and a lightblue colored chair",
+            "ref_color": "Cyan",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a cyan colored suitcase and a lightblue colored bench",
+            "ref_color": "Cyan",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a cyan colored shirt and a lightblue colored bench",
+            "ref_color": "Cyan",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a cyan colored truck and a silver colored bicycle",
+            "ref_color": "Cyan",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cyan colored flower and a silver colored bench",
+            "ref_color": "Cyan",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cyan colored crown and a silver colored chair",
+            "ref_color": "Cyan",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cyan colored balloon and a silver colored bench",
+            "ref_color": "Cyan",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cyan colored bench and a silver colored bicycle",
+            "ref_color": "Cyan",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a cyan colored car and a skyblue colored bench",
+            "ref_color": "Cyan",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a cyan colored bowl and a skyblue colored chair",
+            "ref_color": "Cyan",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a cyan colored flower and a skyblue colored bicycle",
+            "ref_color": "Cyan",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a cyan colored crown and a skyblue colored chair",
+            "ref_color": "Cyan",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a cyan colored shoe and a skyblue colored chair",
+            "ref_color": "Cyan",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a paleturquoise colored umbrella and a ghostwhite colored bench",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a paleturquoise colored balloon and a ghostwhite colored chair",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a paleturquoise colored flower and a ghostwhite colored bicycle",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a paleturquoise colored handbag and a ghostwhite colored bench",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a paleturquoise colored car and a ghostwhite colored backpack",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a paleturquoise colored balloon and a silver colored bench",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a paleturquoise colored suitcase and a silver colored hat",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a paleturquoise colored guitar and a silver colored suitcase",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a paleturquoise colored backpack and a silver colored chair",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a paleturquoise colored suitcase and a silver colored car",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a paleturquoise colored shirt and a ivory colored bench",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a paleturquoise colored truck and a ivory colored bicycle",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a paleturquoise colored pillow and a ivory colored bench",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a paleturquoise colored flower and a ivory colored bicycle",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a paleturquoise colored pillow and a ivory colored chair",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ghostwhite colored balloon and a paleturquoise colored bench",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored crown and a paleturquoise colored chair",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored shirt and a paleturquoise colored bench",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored balloon and a paleturquoise colored bicycle",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a ghostwhite colored surfboard and a paleturquoise colored bicycle",
+            "ref_color": "PaleTurquoise",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightcyan colored pillow and a ghostwhite colored bench",
+            "ref_color": "LightCyan",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightcyan colored crown and a ghostwhite colored chair",
+            "ref_color": "LightCyan",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightcyan colored truck and a ghostwhite colored bicycle",
+            "ref_color": "LightCyan",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightcyan colored guitar and a ghostwhite colored handbag",
+            "ref_color": "LightCyan",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightcyan colored shirt and a ghostwhite colored bench",
+            "ref_color": "LightCyan",
+            "compare_color": "GhostWhite"
+        },
+        {
+            "prompt": "a lightcyan colored guitar and a lavenderblush colored suitcase",
+            "ref_color": "LightCyan",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightcyan colored flower and a lavenderblush colored bicycle",
+            "ref_color": "LightCyan",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightcyan colored pillow and a lavenderblush colored flower",
+            "ref_color": "LightCyan",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightcyan colored car and a lavenderblush colored bench",
+            "ref_color": "LightCyan",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightcyan colored suitcase and a lavenderblush colored car",
+            "ref_color": "LightCyan",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightcyan colored guitar and a lightgray colored suitcase",
+            "ref_color": "LightCyan",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightcyan colored suitcase and a lightgray colored bench",
+            "ref_color": "LightCyan",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightcyan colored hat and a lightgray colored surfboard",
+            "ref_color": "LightCyan",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightcyan colored bow and a lightgray colored balloon",
+            "ref_color": "LightCyan",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightcyan colored surfboard and a lightgray colored bench",
+            "ref_color": "LightCyan",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a linen colored suitcase and a blanchedalmond colored chair",
+            "ref_color": "Linen",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a linen colored car and a blanchedalmond colored backpack",
+            "ref_color": "Linen",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a linen colored umbrella and a blanchedalmond colored car",
+            "ref_color": "Linen",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a linen colored hat and a blanchedalmond colored pillow",
+            "ref_color": "Linen",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a linen colored pillow and a blanchedalmond colored flower",
+            "ref_color": "Linen",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a linen colored pillow and a lightgray colored bench",
+            "ref_color": "Linen",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a linen colored suitcase and a lightgray colored chair",
+            "ref_color": "Linen",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a linen colored guitar and a lightgray colored crown",
+            "ref_color": "Linen",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a linen colored balloon and a lightgray colored bicycle",
+            "ref_color": "Linen",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a linen colored car and a lightgray colored bench",
+            "ref_color": "Linen",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a linen colored hat and a powderblue colored surfboard",
+            "ref_color": "Linen",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a linen colored pillow and a powderblue colored bench",
+            "ref_color": "Linen",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a linen colored suitcase and a powderblue colored bench",
+            "ref_color": "Linen",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a linen colored shoe and a powderblue colored chair",
+            "ref_color": "Linen",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a linen colored balloon and a powderblue colored chair",
+            "ref_color": "Linen",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a whitesmoke colored crown and a blanchedalmond colored chair",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a whitesmoke colored suitcase and a blanchedalmond colored chair",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a whitesmoke colored pillow and a blanchedalmond colored bench",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a whitesmoke colored shirt and a blanchedalmond colored bench",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a whitesmoke colored guitar and a blanchedalmond colored handbag",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a whitesmoke colored suitcase and a lightcyan colored hat",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a whitesmoke colored pillow and a lightcyan colored chair",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a whitesmoke colored hat and a lightcyan colored pillow",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a whitesmoke colored surfboard and a lightcyan colored bicycle",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a whitesmoke colored hat and a lightcyan colored backpack",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a whitesmoke colored surfboard and a lightblue colored bench",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a whitesmoke colored suitcase and a lightblue colored hat",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a whitesmoke colored backpack and a lightblue colored chair",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a whitesmoke colored balloon and a lightblue colored bicycle",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a whitesmoke colored pillow and a lightblue colored flower",
+            "ref_color": "WhiteSmoke",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored car and a lightsteelblue colored bench",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored umbrella and a lightsteelblue colored car",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored guitar and a lightsteelblue colored suitcase",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored handbag and a lightsteelblue colored umbrella",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored shoe and a lightsteelblue colored chair",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored balloon and a paleturquoise colored bench",
+            "ref_color": "LavenderBlush",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lavenderblush colored balloon and a paleturquoise colored chair",
+            "ref_color": "LavenderBlush",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lavenderblush colored pillow and a paleturquoise colored chair",
+            "ref_color": "LavenderBlush",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lavenderblush colored flower and a paleturquoise colored bicycle",
+            "ref_color": "LavenderBlush",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lavenderblush colored hat and a paleturquoise colored backpack",
+            "ref_color": "LavenderBlush",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a lavenderblush colored bench and a lightblue colored bicycle",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored guitar and a lightblue colored handbag",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored balloon and a lightblue colored chair",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored surfboard and a lightblue colored bicycle",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lavenderblush colored bench and a lightblue colored chair",
+            "ref_color": "LavenderBlush",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a blanchedalmond colored pillow and a ghostwhite colored chair",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored bowl and a ghostwhite colored chair",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored umbrella and a ghostwhite colored bicycle",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored shoe and a ghostwhite colored chair",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored balloon and a ghostwhite colored bicycle",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a paleturquoise colored umbrella and a ghostwhite colored bench",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a paleturquoise colored balloon and a ghostwhite colored chair",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a paleturquoise colored flower and a ghostwhite colored bicycle",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a paleturquoise colored handbag and a ghostwhite colored bench",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a paleturquoise colored car and a ghostwhite colored backpack",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a ghostwhite colored suitcase and a powderblue colored bench",
+            "ref_color": "GhostWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a ghostwhite colored hat and a powderblue colored pillow",
+            "ref_color": "GhostWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a ghostwhite colored flower and a powderblue colored bench",
+            "ref_color": "GhostWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a ghostwhite colored umbrella and a powderblue colored car",
+            "ref_color": "GhostWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a ghostwhite colored handbag and a powderblue colored umbrella",
+            "ref_color": "GhostWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a ghostwhite colored surfboard and a blanchedalmond colored bicycle",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ghostwhite colored suitcase and a blanchedalmond colored bench",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ghostwhite colored shoe and a blanchedalmond colored chair",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ghostwhite colored pillow and a blanchedalmond colored flower",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ghostwhite colored bench and a blanchedalmond colored bicycle",
+            "ref_color": "GhostWhite",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ghostwhite colored balloon and a paleturquoise colored bench",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a ghostwhite colored crown and a paleturquoise colored chair",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a ghostwhite colored shirt and a paleturquoise colored bench",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a ghostwhite colored balloon and a paleturquoise colored bicycle",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a ghostwhite colored surfboard and a paleturquoise colored bicycle",
+            "ref_color": "GhostWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a floralwhite colored umbrella and a powderblue colored bench",
+            "ref_color": "FloralWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a floralwhite colored suitcase and a powderblue colored hat",
+            "ref_color": "FloralWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a floralwhite colored flower and a powderblue colored bicycle",
+            "ref_color": "FloralWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a floralwhite colored handbag and a powderblue colored bench",
+            "ref_color": "FloralWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a floralwhite colored shirt and a powderblue colored bench",
+            "ref_color": "FloralWhite",
+            "compare_color": "PowderBlue"
+        },
+        {
+            "prompt": "a floralwhite colored balloon and a paleturquoise colored bicycle",
+            "ref_color": "FloralWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a floralwhite colored shoe and a paleturquoise colored chair",
+            "ref_color": "FloralWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a floralwhite colored shirt and a paleturquoise colored bench",
+            "ref_color": "FloralWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a floralwhite colored pillow and a paleturquoise colored flower",
+            "ref_color": "FloralWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a floralwhite colored balloon and a paleturquoise colored chair",
+            "ref_color": "FloralWhite",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a floralwhite colored umbrella and a lightgray colored car",
+            "ref_color": "FloralWhite",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a floralwhite colored shoe and a lightgray colored chair",
+            "ref_color": "FloralWhite",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a floralwhite colored bowl and a lightgray colored chair",
+            "ref_color": "FloralWhite",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a floralwhite colored surfboard and a lightgray colored bicycle",
+            "ref_color": "FloralWhite",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a floralwhite colored handbag and a lightgray colored bench",
+            "ref_color": "FloralWhite",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a mintcream colored hat and a lightcyan colored backpack",
+            "ref_color": "MintCream",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a mintcream colored backpack and a lightcyan colored chair",
+            "ref_color": "MintCream",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a mintcream colored pillow and a lightcyan colored bench",
+            "ref_color": "MintCream",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a mintcream colored bowl and a lightcyan colored chair",
+            "ref_color": "MintCream",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a mintcream colored crown and a lightcyan colored chair",
+            "ref_color": "MintCream",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a mintcream colored umbrella and a lightgray colored car",
+            "ref_color": "MintCream",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a mintcream colored shirt and a lightgray colored bench",
+            "ref_color": "MintCream",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a mintcream colored bench and a lightgray colored bicycle",
+            "ref_color": "MintCream",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a mintcream colored suitcase and a lightgray colored hat",
+            "ref_color": "MintCream",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a mintcream colored guitar and a lightgray colored suitcase",
+            "ref_color": "MintCream",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a mintcream colored hat and a blanchedalmond colored surfboard",
+            "ref_color": "MintCream",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a mintcream colored hat and a blanchedalmond colored pillow",
+            "ref_color": "MintCream",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a mintcream colored pillow and a blanchedalmond colored chair",
+            "ref_color": "MintCream",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a mintcream colored umbrella and a blanchedalmond colored car",
+            "ref_color": "MintCream",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a mintcream colored crown and a blanchedalmond colored chair",
+            "ref_color": "MintCream",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a lightblue colored umbrella and a snow colored car",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lightblue colored bench and a snow colored bicycle",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lightblue colored suitcase and a snow colored bench",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lightblue colored handbag and a snow colored umbrella",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a lightblue colored car and a snow colored backpack",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a snow colored hat and a lightblue colored pillow",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a snow colored hat and a lightblue colored backpack",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a snow colored suitcase and a lightblue colored car",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a snow colored crown and a lightblue colored chair",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a snow colored suitcase and a lightblue colored chair",
+            "ref_color": "Snow",
+            "compare_color": "LightBlue"
+        },
+        {
+            "prompt": "a snow colored backpack and a lightcyan colored chair",
+            "ref_color": "Snow",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a snow colored handbag and a lightcyan colored umbrella",
+            "ref_color": "Snow",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a snow colored pillow and a lightcyan colored bench",
+            "ref_color": "Snow",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a snow colored guitar and a lightcyan colored handbag",
+            "ref_color": "Snow",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a snow colored shirt and a lightcyan colored bench",
+            "ref_color": "Snow",
+            "compare_color": "LightCyan"
+        },
+        {
+            "prompt": "a snow colored umbrella and a blanchedalmond colored bench",
+            "ref_color": "Snow",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a snow colored flower and a blanchedalmond colored bicycle",
+            "ref_color": "Snow",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a snow colored umbrella and a blanchedalmond colored bicycle",
+            "ref_color": "Snow",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a snow colored suitcase and a blanchedalmond colored hat",
+            "ref_color": "Snow",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a snow colored umbrella and a blanchedalmond colored car",
+            "ref_color": "Snow",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored suitcase and a ivory colored chair",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored car and a ivory colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored guitar and a ivory colored suitcase",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored suitcase and a ivory colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored pillow and a ivory colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ivory colored umbrella and a silver colored bicycle",
+            "ref_color": "Ivory",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a ivory colored crown and a silver colored chair",
+            "ref_color": "Ivory",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a ivory colored pillow and a silver colored chair",
+            "ref_color": "Ivory",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a ivory colored umbrella and a silver colored car",
+            "ref_color": "Ivory",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a ivory colored hat and a silver colored pillow",
+            "ref_color": "Ivory",
+            "compare_color": "Silver"
+        },
+        {
+            "prompt": "a ivory colored balloon and a blanchedalmond colored chair",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ivory colored balloon and a blanchedalmond colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ivory colored guitar and a blanchedalmond colored suitcase",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ivory colored handbag and a blanchedalmond colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ivory colored guitar and a blanchedalmond colored crown",
+            "ref_color": "Ivory",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a ivory colored hat and a lightgray colored surfboard",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a ivory colored suitcase and a lightgray colored hat",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a ivory colored hat and a lightgray colored backpack",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a ivory colored flower and a lightgray colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a ivory colored backpack and a lightgray colored chair",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored suitcase and a ivory colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored bench and a ivory colored chair",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored flower and a ivory colored bench",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored car and a ivory colored backpack",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a lightgray colored backpack and a ivory colored chair",
+            "ref_color": "Ivory",
+            "compare_color": "LightGray"
+        },
+        {
+            "prompt": "a blanchedalmond colored hat and a white colored backpack",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored bow and a white colored balloon",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored shirt and a white colored bench",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored handbag and a white colored bench",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a blanchedalmond colored handbag and a white colored umbrella",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a white colored car and a paleturquoise colored backpack",
+            "ref_color": "White",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a white colored suitcase and a paleturquoise colored chair",
+            "ref_color": "White",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a white colored umbrella and a paleturquoise colored bicycle",
+            "ref_color": "White",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a white colored bench and a paleturquoise colored bicycle",
+            "ref_color": "White",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a white colored pillow and a paleturquoise colored bench",
+            "ref_color": "White",
+            "compare_color": "PaleTurquoise"
+        },
+        {
+            "prompt": "a white colored hat and a blanchedalmond colored pillow",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a white colored shoe and a blanchedalmond colored chair",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a white colored bench and a blanchedalmond colored bicycle",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a white colored suitcase and a blanchedalmond colored chair",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a white colored guitar and a blanchedalmond colored crown",
+            "ref_color": "White",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a white colored suitcase and a lightsteelblue colored hat",
+            "ref_color": "White",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a white colored surfboard and a lightsteelblue colored bench",
+            "ref_color": "White",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a white colored guitar and a lightsteelblue colored handbag",
+            "ref_color": "White",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a white colored suitcase and a lightsteelblue colored car",
+            "ref_color": "White",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a white colored bow and a lightsteelblue colored balloon",
+            "ref_color": "White",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a black colored guitar and a teal colored suitcase",
+            "ref_color": "Black",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a black colored pillow and a teal colored bench",
+            "ref_color": "Black",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a black colored surfboard and a teal colored bench",
+            "ref_color": "Black",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a black colored crown and a teal colored chair",
+            "ref_color": "Black",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a black colored hat and a teal colored surfboard",
+            "ref_color": "Black",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a dimgray colored balloon and a linen colored bicycle",
+            "ref_color": "DimGray",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a dimgray colored hat and a linen colored surfboard",
+            "ref_color": "DimGray",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a dimgray colored shirt and a linen colored bench",
+            "ref_color": "DimGray",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a dimgray colored flower and a linen colored bench",
+            "ref_color": "DimGray",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a dimgray colored crown and a linen colored chair",
+            "ref_color": "DimGray",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a dimgray colored suitcase and a blanchedalmond colored car",
+            "ref_color": "DimGray",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a dimgray colored bowl and a blanchedalmond colored chair",
+            "ref_color": "DimGray",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a dimgray colored balloon and a blanchedalmond colored bicycle",
+            "ref_color": "DimGray",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a dimgray colored car and a blanchedalmond colored bench",
+            "ref_color": "DimGray",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a dimgray colored bench and a blanchedalmond colored chair",
+            "ref_color": "DimGray",
+            "compare_color": "BlanchedAlmond"
+        },
+        {
+            "prompt": "a dimgray colored surfboard and a mintcream colored bicycle",
+            "ref_color": "DimGray",
+            "compare_color": "MintCream"
+        },
+        {
+            "prompt": "a dimgray colored suitcase and a mintcream colored hat",
+            "ref_color": "DimGray",
+            "compare_color": "MintCream"
+        },
+        {
+            "prompt": "a dimgray colored shoe and a mintcream colored chair",
+            "ref_color": "DimGray",
+            "compare_color": "MintCream"
+        },
+        {
+            "prompt": "a dimgray colored suitcase and a mintcream colored bench",
+            "ref_color": "DimGray",
+            "compare_color": "MintCream"
+        },
+        {
+            "prompt": "a dimgray colored surfboard and a mintcream colored bench",
+            "ref_color": "DimGray",
+            "compare_color": "MintCream"
+        },
+        {
+            "prompt": "a steelblue colored hat and a slategray colored pillow",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored pillow and a slategray colored chair",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored suitcase and a slategray colored car",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored shirt and a slategray colored bench",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored crown and a slategray colored chair",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a teal colored guitar and a slategray colored crown",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored pillow and a slategray colored chair",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored backpack and a slategray colored chair",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored surfboard and a slategray colored bicycle",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored pillow and a slategray colored bench",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a slategray colored umbrella and a lightsteelblue colored bench",
+            "ref_color": "SlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a slategray colored pillow and a lightsteelblue colored bench",
+            "ref_color": "SlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a slategray colored suitcase and a lightsteelblue colored bench",
+            "ref_color": "SlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a slategray colored guitar and a lightsteelblue colored suitcase",
+            "ref_color": "SlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a slategray colored suitcase and a lightsteelblue colored car",
+            "ref_color": "SlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a slategray colored suitcase and a teal colored hat",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a slategray colored guitar and a teal colored suitcase",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a slategray colored suitcase and a teal colored bench",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a slategray colored umbrella and a teal colored car",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a slategray colored surfboard and a teal colored bicycle",
+            "ref_color": "SlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a slategray colored crown and a steelblue colored chair",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a slategray colored pillow and a steelblue colored flower",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a slategray colored handbag and a steelblue colored umbrella",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a slategray colored flower and a steelblue colored bicycle",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a slategray colored surfboard and a steelblue colored bicycle",
+            "ref_color": "SlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a gray colored umbrella and a lightsteelblue colored bench",
+            "ref_color": "Gray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a gray colored bench and a lightsteelblue colored chair",
+            "ref_color": "Gray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a gray colored hat and a lightsteelblue colored pillow",
+            "ref_color": "Gray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a gray colored crown and a lightsteelblue colored chair",
+            "ref_color": "Gray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a gray colored shoe and a lightsteelblue colored chair",
+            "ref_color": "Gray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored pillow and a lightslategray colored chair",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored handbag and a lightslategray colored bench",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored pillow and a lightslategray colored flower",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored umbrella and a lightslategray colored car",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a steelblue colored truck and a lightslategray colored bicycle",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a teal colored bench and a lightslategray colored chair",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored guitar and a lightslategray colored suitcase",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored suitcase and a lightslategray colored car",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored suitcase and a lightslategray colored chair",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a teal colored suitcase and a lightslategray colored hat",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a lightslategray colored suitcase and a teal colored bench",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a lightslategray colored shirt and a teal colored bench",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a lightslategray colored balloon and a teal colored chair",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a lightslategray colored pillow and a teal colored chair",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a lightslategray colored balloon and a teal colored bicycle",
+            "ref_color": "LightSlateGray",
+            "compare_color": "Teal"
+        },
+        {
+            "prompt": "a lightslategray colored guitar and a lightsteelblue colored crown",
+            "ref_color": "LightSlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored hat and a lightsteelblue colored pillow",
+            "ref_color": "LightSlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored balloon and a lightsteelblue colored bicycle",
+            "ref_color": "LightSlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored shirt and a lightsteelblue colored bench",
+            "ref_color": "LightSlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored flower and a lightsteelblue colored bench",
+            "ref_color": "LightSlateGray",
+            "compare_color": "LightSteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored handbag and a steelblue colored umbrella",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored balloon and a steelblue colored chair",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored guitar and a steelblue colored crown",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored flower and a steelblue colored bench",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a lightslategray colored shoe and a steelblue colored chair",
+            "ref_color": "LightSlateGray",
+            "compare_color": "SteelBlue"
+        },
+        {
+            "prompt": "a lightpink colored bench and a lightgray colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightpink colored balloon and a lightgray colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightpink colored bowl and a lightgray colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightpink colored balloon and a lightgray colored bench",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightpink colored car and a lightgray colored bench",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a ivory colored hat and a lightgray colored surfboard",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored suitcase and a lightgray colored hat",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored hat and a lightgray colored backpack",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored flower and a lightgray colored bench",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a ivory colored backpack and a lightgray colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a lightgray colored bowl and a lightpink colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightgray colored bench and a lightpink colored bicycle",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightgray colored pillow and a lightpink colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightgray colored bench and a lightpink colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightgray colored hat and a lightpink colored pillow",
+            "ref_color": "LightGray",
+            "compare_color": "LightPink"
+        },
+        {
+            "prompt": "a lightgray colored suitcase and a ivory colored bench",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a lightgray colored bench and a ivory colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a lightgray colored flower and a ivory colored bench",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a lightgray colored car and a ivory colored backpack",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a lightgray colored backpack and a ivory colored chair",
+            "ref_color": "LightGray",
+            "compare_color": "Ivory"
+        },
+        {
+            "prompt": "a lightgray colored hat and a lavenderblush colored backpack",
+            "ref_color": "LightGray",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightgray colored flower and a lavenderblush colored bicycle",
+            "ref_color": "LightGray",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightgray colored hat and a lavenderblush colored pillow",
+            "ref_color": "LightGray",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightgray colored shirt and a lavenderblush colored bench",
+            "ref_color": "LightGray",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a lightgray colored balloon and a lavenderblush colored bench",
+            "ref_color": "LightGray",
+            "compare_color": "LavenderBlush"
+        },
+        {
+            "prompt": "a silver colored backpack and a floralwhite colored chair",
+            "ref_color": "Silver",
+            "compare_color": "FloralWhite"
+        },
+        {
+            "prompt": "a silver colored balloon and a floralwhite colored bench",
+            "ref_color": "Silver",
+            "compare_color": "FloralWhite"
+        },
+        {
+            "prompt": "a silver colored suitcase and a floralwhite colored bench",
+            "ref_color": "Silver",
+            "compare_color": "FloralWhite"
+        },
+        {
+            "prompt": "a silver colored guitar and a floralwhite colored suitcase",
+            "ref_color": "Silver",
+            "compare_color": "FloralWhite"
+        },
+        {
+            "prompt": "a silver colored flower and a floralwhite colored bicycle",
+            "ref_color": "Silver",
+            "compare_color": "FloralWhite"
+        },
+        {
+            "prompt": "a silver colored flower and a linen colored bench",
+            "ref_color": "Silver",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a silver colored hat and a linen colored backpack",
+            "ref_color": "Silver",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a silver colored shirt and a linen colored bench",
+            "ref_color": "Silver",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a silver colored car and a linen colored backpack",
+            "ref_color": "Silver",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a silver colored umbrella and a linen colored bench",
+            "ref_color": "Silver",
+            "compare_color": "Linen"
+        },
+        {
+            "prompt": "a silver colored suitcase and a skyblue colored bench",
+            "ref_color": "Silver",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a silver colored hat and a skyblue colored surfboard",
+            "ref_color": "Silver",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a silver colored bench and a skyblue colored chair",
+            "ref_color": "Silver",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a silver colored bench and a skyblue colored bicycle",
+            "ref_color": "Silver",
+            "compare_color": "SkyBlue"
+        },
+        {
+            "prompt": "a silver colored suitcase and a skyblue colored car",
+            "ref_color": "Silver",
+            "compare_color": "SkyBlue"
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "color1":
+[
+    {
+        "ref_color": "HotPink",
+        "ref_color_prompts": [
+            "a hotpink colored umbrella",
+            "a hotpink colored bicycle",
+            "a hotpink colored crown",
+            "a hotpink colored suitcase",
+            "a hotpink colored bench",
+            "a hotpink colored guitar",
+            "a hotpink colored hat",
+            "a hotpink colored balloon",
+            "a hotpink colored surfboard",
+            "a hotpink colored chair",
+            "a hotpink colored shoe",
+            "a hotpink colored pillow",
+            "a hotpink colored car"
+        ]
+    },
+    {
+        "ref_color": "LightPink",
+        "ref_color_prompts": [
+            "a lightpink colored hat",
+            "a lightpink colored suitcase",
+            "a lightpink colored shirt",
+            "a lightpink colored bowl",
+            "a lightpink colored bench",
+            "a lightpink colored pillow",
+            "a lightpink colored balloon",
+            "a lightpink colored car",
+            "a lightpink colored flower",
+            "a lightpink colored handbag",
+            "a lightpink colored chair",
+            "a lightpink colored crown",
+            "a lightpink colored bicycle"
+        ]
+    },
+    {
+        "ref_color": "Tomato",
+        "ref_color_prompts": [
+            "a tomato colored shoe",
+            "a tomato colored umbrella",
+            "a tomato colored bowl",
+            "a tomato colored backpack",
+            "a tomato colored crown",
+            "a tomato colored pillow",
+            "a tomato colored handbag",
+            "a tomato colored bicycle",
+            "a tomato colored car",
+            "a tomato colored chair",
+            "a tomato colored hat",
+            "a tomato colored surfboard",
+            "a tomato colored bow",
+            "a tomato colored bench"
+        ]
+    },
+    {
+        "ref_color": "BlanchedAlmond",
+        "ref_color_prompts": [
+            "a blanchedalmond colored bowl",
+            "a blanchedalmond colored bench",
+            "a blanchedalmond colored chair",
+            "a blanchedalmond colored bow",
+            "a blanchedalmond colored shirt",
+            "a blanchedalmond colored balloon",
+            "a blanchedalmond colored umbrella",
+            "a blanchedalmond colored flower",
+            "a blanchedalmond colored handbag",
+            "a blanchedalmond colored suitcase",
+            "a blanchedalmond colored bicycle",
+            "a blanchedalmond colored car",
+            "a blanchedalmond colored crown",
+            "a blanchedalmond colored pillow",
+            "a blanchedalmond colored hat",
+            "a blanchedalmond colored guitar",
+            "a blanchedalmond colored shoe",
+            "a blanchedalmond colored backpack"
+        ]
+    },
+    {
+        "ref_color": "SteelBlue",
+        "ref_color_prompts": [
+            "a steelblue colored flower",
+            "a steelblue colored hat",
+            "a steelblue colored shirt",
+            "a steelblue colored balloon",
+            "a steelblue colored guitar",
+            "a steelblue colored suitcase",
+            "a steelblue colored pillow",
+            "a steelblue colored chair",
+            "a steelblue colored truck",
+            "a steelblue colored bench",
+            "a steelblue colored crown",
+            "a steelblue colored umbrella",
+            "a steelblue colored bicycle",
+            "a steelblue colored bow",
+            "a steelblue colored handbag",
+            "a steelblue colored surfboard"
+        ]
+    },
+    {
+        "ref_color": "CornflowerBlue",
+        "ref_color_prompts": [
+            "a cornflowerblue colored bench",
+            "a cornflowerblue colored handbag",
+            "a cornflowerblue colored shoe",
+            "a cornflowerblue colored flower",
+            "a cornflowerblue colored bowl",
+            "a cornflowerblue colored surfboard",
+            "a cornflowerblue colored truck",
+            "a cornflowerblue colored pillow",
+            "a cornflowerblue colored suitcase",
+            "a cornflowerblue colored hat",
+            "a cornflowerblue colored bow"
+        ]
+    },
+    {
+        "ref_color": "SkyBlue",
+        "ref_color_prompts": [
+            "a skyblue colored pillow",
+            "a skyblue colored chair",
+            "a skyblue colored shirt",
+            "a skyblue colored guitar",
+            "a skyblue colored crown",
+            "a skyblue colored handbag",
+            "a skyblue colored surfboard",
+            "a skyblue colored flower",
+            "a skyblue colored suitcase",
+            "a skyblue colored hat",
+            "a skyblue colored balloon",
+            "a skyblue colored umbrella"
+        ]
+    },
+    {
+        "ref_color": "LightSkyBlue",
+        "ref_color_prompts": [
+            "a lightskyblue colored suitcase",
+            "a lightskyblue colored flower",
+            "a lightskyblue colored handbag",
+            "a lightskyblue colored car",
+            "a lightskyblue colored bench",
+            "a lightskyblue colored hat",
+            "a lightskyblue colored crown",
+            "a lightskyblue colored surfboard",
+            "a lightskyblue colored balloon"
+        ]
+    },
+    {
+        "ref_color": "LightSteelBlue",
+        "ref_color_prompts": [
+            "a lightsteelblue colored hat",
+            "a lightsteelblue colored umbrella",
+            "a lightsteelblue colored bench",
+            "a lightsteelblue colored suitcase",
+            "a lightsteelblue colored chair",
+            "a lightsteelblue colored crown",
+            "a lightsteelblue colored bicycle",
+            "a lightsteelblue colored car",
+            "a lightsteelblue colored surfboard",
+            "a lightsteelblue colored pillow",
+            "a lightsteelblue colored balloon"
+        ]
+    },
+    {
+        "ref_color": "LightBlue",
+        "ref_color_prompts": [
+            "a lightblue colored chair",
+            "a lightblue colored umbrella",
+            "a lightblue colored guitar",
+            "a lightblue colored balloon",
+            "a lightblue colored bench",
+            "a lightblue colored surfboard",
+            "a lightblue colored backpack",
+            "a lightblue colored pillow",
+            "a lightblue colored hat",
+            "a lightblue colored handbag",
+            "a lightblue colored car",
+            "a lightblue colored suitcase"
+        ]
+    },
+    {
+        "ref_color": "PowderBlue",
+        "ref_color_prompts": [
+            "a powderblue colored backpack",
+            "a powderblue colored bow",
+            "a powderblue colored hat",
+            "a powderblue colored pillow",
+            "a powderblue colored suitcase",
+            "a powderblue colored handbag",
+            "a powderblue colored chair",
+            "a powderblue colored flower",
+            "a powderblue colored shirt",
+            "a powderblue colored umbrella",
+            "a powderblue colored crown",
+            "a powderblue colored car",
+            "a powderblue colored truck",
+            "a powderblue colored bench"
+        ]
+    },
+    {
+        "ref_color": "Teal",
+        "ref_color_prompts": [
+            "a teal colored bench",
+            "a teal colored umbrella",
+            "a teal colored balloon",
+            "a teal colored guitar",
+            "a teal colored bicycle",
+            "a teal colored bow",
+            "a teal colored chair",
+            "a teal colored suitcase",
+            "a teal colored backpack",
+            "a teal colored surfboard",
+            "a teal colored pillow",
+            "a teal colored car",
+            "a teal colored hat",
+            "a teal colored handbag"
+        ]
+    },
+    {
+        "ref_color": "MediumTurquoise",
+        "ref_color_prompts": [
+            "a mediumturquoise colored shoe",
+            "a mediumturquoise colored chair",
+            "a mediumturquoise colored bench",
+            "a mediumturquoise colored car",
+            "a mediumturquoise colored hat",
+            "a mediumturquoise colored bicycle",
+            "a mediumturquoise colored backpack",
+            "a mediumturquoise colored guitar",
+            "a mediumturquoise colored bowl",
+            "a mediumturquoise colored pillow",
+            "a mediumturquoise colored umbrella",
+            "a mediumturquoise colored crown",
+            "a mediumturquoise colored flower",
+            "a mediumturquoise colored handbag"
+        ]
+    },
+    {
+        "ref_color": "Turquoise",
+        "ref_color_prompts": [
+            "a turquoise colored suitcase",
+            "a turquoise colored car",
+            "a turquoise colored balloon",
+            "a turquoise colored surfboard",
+            "a turquoise colored backpack",
+            "a turquoise colored pillow",
+            "a turquoise colored bench",
+            "a turquoise colored chair",
+            "a turquoise colored guitar",
+            "a turquoise colored bowl",
+            "a turquoise colored umbrella"
+        ]
+    },
+    {
+        "ref_color": "Aqua",
+        "ref_color_prompts": [
+            "a aqua colored suitcase",
+            "a aqua colored handbag",
+            "a aqua colored pillow",
+            "a aqua colored car",
+            "a aqua colored balloon",
+            "a aqua colored bicycle",
+            "a aqua colored truck",
+            "a aqua colored hat",
+            "a aqua colored bench",
+            "a aqua colored chair",
+            "a aqua colored surfboard",
+            "a aqua colored flower"
+        ]
+    },
+    {
+        "ref_color": "Cyan",
+        "ref_color_prompts": [
+            "a cyan colored bowl",
+            "a cyan colored truck",
+            "a cyan colored suitcase",
+            "a cyan colored shirt",
+            "a cyan colored crown",
+            "a cyan colored balloon",
+            "a cyan colored flower",
+            "a cyan colored car",
+            "a cyan colored shoe",
+            "a cyan colored umbrella",
+            "a cyan colored bicycle",
+            "a cyan colored bench",
+            "a cyan colored hat",
+            "a cyan colored chair"
+        ]
+    },
+    {
+        "ref_color": "PaleTurquoise",
+        "ref_color_prompts": [
+            "a paleturquoise colored handbag",
+            "a paleturquoise colored suitcase",
+            "a paleturquoise colored shirt",
+            "a paleturquoise colored flower",
+            "a paleturquoise colored umbrella",
+            "a paleturquoise colored pillow",
+            "a paleturquoise colored bench",
+            "a paleturquoise colored hat",
+            "a paleturquoise colored guitar",
+            "a paleturquoise colored bicycle",
+            "a paleturquoise colored crown",
+            "a paleturquoise colored truck",
+            "a paleturquoise colored backpack",
+            "a paleturquoise colored balloon",
+            "a paleturquoise colored car",
+            "a paleturquoise colored chair"
+        ]
+    }
+]
+}

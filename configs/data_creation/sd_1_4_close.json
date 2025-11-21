@@ -1,0 +1,7 @@
+{
+    "models_seeds_dict" : {"sd_1_4" : 0},
+    "run_name" : "sd_1_4",
+    "html_color_dict_path" : "ColorPrompts_benchmark/html_color_dict.json",
+    "prompts_file_path" : "ColorPrompts_benchmark/prompts_our_color_with_ref_close.json",
+    "out_dir" : "outputs/repo/ColorEdit/color_promot_benchmark/prompts_our_color_with_ref/sd_1_4/close/"
+    }
