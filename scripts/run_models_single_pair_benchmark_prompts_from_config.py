@@ -75,8 +75,8 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
         from pathlib import Path
 
         sys.path.append('.')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/attend_and_excite/')
+        sys.path.insert(0,'enviroment/src/')
+        sys.path.insert(0,'enviroment/src/attend_and_excite/')
 
         from scripts.models_data_creation.attend_and_excite import ae_main_custom
         from attend_and_excite.config import RunConfig 
@@ -105,8 +105,8 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
     elif model == 'syngen_1_4':
         import sys
         sys.path.append('.')
-        sys.path.append('/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.append('/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/linguistic_binding_sd/')
+        sys.path.append('enviroment/src/')
+        sys.path.append('enviroment/src/linguistic_binding_sd/')
         from linguistic_binding_sd.run import main as syngen_main
         
         model_id = 'CompVis/stable-diffusion-v1-4'
@@ -117,8 +117,8 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
     elif model == 'ba_1_5':
         import sys
         sys.path.insert(0,'.')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/bounded_attention/')
+        sys.path.insert(0,'enviroment/src/')
+        sys.path.insert(0,'enviroment/src/bounded_attention/')
         
         import nltk
         nltk.download('averaged_perceptron_tagger')
@@ -152,11 +152,11 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
     elif model == 'rich_text_1_5':
         import sys
         sys.path.append('.')
-        sys.path.append('/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.append('/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/rich_text/')
+        sys.path.append('enviroment/src/')
+        sys.path.append('enviroment/src/rich_text/')
 
         rich_text_env_python = "../../envs/rich-text/bin/python"
-        script_path = '/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/rich_text_to_image/sample.py'
+        script_path = 'enviroment/src/rich_text_to_image/sample.py'
         if len(objects_colors_dict.items())==1:
             first_object, first_color_dict = list(objects_colors_dict.items())[0]
             first_color_hex = first_color_dict['HEX'].lower()
@@ -202,9 +202,9 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
         from pathlib import Path
 
         sys.path.append('.')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/Structured-Diffusion-Guidance/')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/Structured-Diffusion-Guidance/scripts/')
+        sys.path.insert(0,'enviroment/src/')
+        sys.path.insert(0,'enviroment/src/Structured-Diffusion-Guidance/')
+        sys.path.insert(0,'enviroment/src/Structured-Diffusion-Guidance/scripts/')
 
         from scripts.models_data_creation.structured_diffusion import ssd_main_custom
         
@@ -344,7 +344,7 @@ def main(run_config_dict,config_path):
 if __name__ == '__main__':
             
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config', type=str, default='/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/benchmark/final_benchmark1110/configs/ssd_1_4_single_color1.json')
+    parser.add_argument('--config', type=str)
     args = parser.parse_args()
     
     run_config_dict = {}

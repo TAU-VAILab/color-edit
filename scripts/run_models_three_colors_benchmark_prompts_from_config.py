@@ -75,8 +75,8 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
         from pathlib import Path
 
         sys.path.append('.')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/attend_and_excite/')
+        sys.path.insert(0,'enviroment/src/')
+        sys.path.insert(0,'enviroment/src/attend_and_excite/')
 
         from scripts.models_data_creation.attend_and_excite import ae_main_custom
         from attend_and_excite.config import RunConfig 
@@ -105,8 +105,8 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
     elif model == 'syngen_1_4':
         import sys
         sys.path.append('.')
-        sys.path.append('/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.append('/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/linguistic_binding_sd/')
+        sys.path.append('enviroment/src/')
+        sys.path.append('enviroment/src/linguistic_binding_sd/')
         from linguistic_binding_sd.run import main as syngen_main
         
         model_id = 'CompVis/stable-diffusion-v1-4'
@@ -120,9 +120,9 @@ def run_model_on_prompts(model, prompt, seed, output_path, token_indices=[],obje
         from pathlib import Path
 
         sys.path.append('.')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/Structured-Diffusion-Guidance/')
-        sys.path.insert(0,'/storage/shayshomerchai/projects/synthesize_colors_in_context/enviroment/src/Structured-Diffusion-Guidance/scripts/')
+        sys.path.insert(0,'enviroment/src/')
+        sys.path.insert(0,'enviroment/src/Structured-Diffusion-Guidance/')
+        sys.path.insert(0,'enviroment/src/Structured-Diffusion-Guidance/scripts/')
 
         from scripts.models_data_creation.structured_diffusion import ssd_main_custom
         
@@ -173,7 +173,7 @@ def run_manager(models_seeds_dict,run_name,html_color_dict_path,prompts_file_pat
     
     pipe = None
     if models[0] == 'flux_dev':
-        os.system(" huggingface-cli login --token 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")
+        # os.system(" huggingface-cli login --token <YOUR_TOKEN>")
         import sys
         sys.path.append('.')
         from running_scripts.run_flux import pipe
@@ -277,7 +277,7 @@ def main(run_config_dict,config_path):
 if __name__ == '__main__':
             
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config', type=str, default='/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/benchmark/final_benchmark1110/3_colors_configs/flux_dev_close_distant_3_colors_start_from_middle.json')
+    parser.add_argument('--config', type=str)
     args = parser.parse_args()
     
     run_config_dict = {}

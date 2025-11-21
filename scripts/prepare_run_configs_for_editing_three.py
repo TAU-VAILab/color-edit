@@ -152,7 +152,7 @@ def prepare_run_configs_for_editing_base_on_dir(source_images_path, model_name, 
 models_data_paths = \
 {
     "sd_2_1" : [
-        "/storage/shayshomerchai/projects/synthesize_colors_in_context/outputs/color_promot_benchmark/final_benchmark1110/prompts_our_color_with_ref/3_colors_close_distant/sd_2_1/close_distant/20250511_102708_sd_2_1"
+        "outputs/color_promot_benchmark/final_benchmark1110/prompts_our_color_with_ref/3_colors_close_distant/sd_2_1/close_distant/20250511_102708_sd_2_1"
     ]
 }
 total_dict = {'ae_1_4':[], 'rich_text_1_5': [], 'sd_1_4' : [], 'sd_1_5' : [],

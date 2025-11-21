@@ -134,7 +134,7 @@ def real_images_editing(input_dir, masks_multi):
     sam_model = LangSAM()  
     
     color_terms_rgb_dict = {}
-    with open('/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/benchmark/color_benchmark/html_color_dict.json', 'r') as f:
+    with open('ColorPrompts_benchmark/html_color_dict.json', 'r') as f:
         color_terms_rgb_dict = json.load(f)
     
     prompt_images_path_config_dict_real = {}
@@ -274,7 +274,7 @@ def FLUX_preprocessing_ver2(flux_dir,masks_multi):
     sam_model = LangSAM()  
     
     color_terms_rgb_dict = {}
-    with open('/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/benchmark/color_benchmark/html_color_dict.json', 'r') as f:
+    with open('colorPrompts_benchmark/html_color_dict.json', 'r') as f:
         color_terms_rgb_dict = json.load(f)
     
     prompt_images_path_config_dict_close = {}
