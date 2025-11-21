@@ -1,0 +1,467 @@
+{
+    "a_bridge_yellow": {
+        "model_name": "real",
+        "original_prompt": "a bridge",
+        "simplified_text_prompt": "a bridge",
+        "full_text_prompt": "a yellow bridge",
+        "color_object_dict": {
+            "bridge": {
+                "HEX": "FFFF00",
+                "RGB": [
+                    255,
+                    255,
+                    0
+                ],
+                "color_name": "yellow",
+                "base_color_name": "yellow"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/a_bridge.png",
+        "mask_bridge": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/mask_bridge.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_bridge_blue": {
+        "model_name": "real",
+        "original_prompt": "a bridge",
+        "simplified_text_prompt": "a bridge",
+        "full_text_prompt": "a blue bridge",
+        "color_object_dict": {
+            "bridge": {
+                "HEX": "0000FF",
+                "RGB": [
+                    0,
+                    0,
+                    255
+                ],
+                "color_name": "blue",
+                "base_color_name": "blue"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/a_bridge.png",
+        "mask_bridge": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/mask_bridge.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_bridge_green": {
+        "model_name": "real",
+        "original_prompt": "a bridge",
+        "simplified_text_prompt": "a bridge",
+        "full_text_prompt": "a green bridge",
+        "color_object_dict": {
+            "bridge": {
+                "HEX": "008000",
+                "RGB": [
+                    0,
+                    128,
+                    0
+                ],
+                "color_name": "green",
+                "base_color_name": "green"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/a_bridge.png",
+        "mask_bridge": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/mask_bridge.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_bridge_red": {
+        "model_name": "real",
+        "original_prompt": "a bridge",
+        "simplified_text_prompt": "a bridge",
+        "full_text_prompt": "a red bridge",
+        "color_object_dict": {
+            "bridge": {
+                "HEX": "FF0000",
+                "RGB": [
+                    255,
+                    0,
+                    0
+                ],
+                "color_name": "red",
+                "base_color_name": "red"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/a_bridge.png",
+        "mask_bridge": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/mask_bridge.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_bridge_pink": {
+        "model_name": "real",
+        "original_prompt": "a bridge",
+        "simplified_text_prompt": "a bridge",
+        "full_text_prompt": "a pink bridge",
+        "color_object_dict": {
+            "bridge": {
+                "HEX": "FFC0CB",
+                "RGB": [
+                    255,
+                    192,
+                    203
+                ],
+                "color_name": "pink",
+                "base_color_name": "pink"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/a_bridge.png",
+        "mask_bridge": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_bridge/mask_bridge.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_statue_yellow": {
+        "model_name": "real",
+        "original_prompt": "a statue",
+        "simplified_text_prompt": "a statue",
+        "full_text_prompt": "a yellow statue",
+        "color_object_dict": {
+            "statue": {
+                "HEX": "FFFF00",
+                "RGB": [
+                    255,
+                    255,
+                    0
+                ],
+                "color_name": "yellow",
+                "base_color_name": "yellow"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/a_statue.png",
+        "mask_statue": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/mask_statue.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_statue_blue": {
+        "model_name": "real",
+        "original_prompt": "a statue",
+        "simplified_text_prompt": "a statue",
+        "full_text_prompt": "a blue statue",
+        "color_object_dict": {
+            "statue": {
+                "HEX": "0000FF",
+                "RGB": [
+                    0,
+                    0,
+                    255
+                ],
+                "color_name": "blue",
+                "base_color_name": "blue"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/a_statue.png",
+        "mask_statue": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/mask_statue.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_statue_green": {
+        "model_name": "real",
+        "original_prompt": "a statue",
+        "simplified_text_prompt": "a statue",
+        "full_text_prompt": "a green statue",
+        "color_object_dict": {
+            "statue": {
+                "HEX": "008000",
+                "RGB": [
+                    0,
+                    128,
+                    0
+                ],
+                "color_name": "green",
+                "base_color_name": "green"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/a_statue.png",
+        "mask_statue": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/mask_statue.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_statue_red": {
+        "model_name": "real",
+        "original_prompt": "a statue",
+        "simplified_text_prompt": "a statue",
+        "full_text_prompt": "a red statue",
+        "color_object_dict": {
+            "statue": {
+                "HEX": "FF0000",
+                "RGB": [
+                    255,
+                    0,
+                    0
+                ],
+                "color_name": "red",
+                "base_color_name": "red"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/a_statue.png",
+        "mask_statue": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/mask_statue.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_statue_pink": {
+        "model_name": "real",
+        "original_prompt": "a statue",
+        "simplified_text_prompt": "a statue",
+        "full_text_prompt": "a pink statue",
+        "color_object_dict": {
+            "statue": {
+                "HEX": "FFC0CB",
+                "RGB": [
+                    255,
+                    192,
+                    203
+                ],
+                "color_name": "pink",
+                "base_color_name": "pink"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/a_statue.png",
+        "mask_statue": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_statue/mask_statue.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_tower_yellow": {
+        "model_name": "real",
+        "original_prompt": "a tower",
+        "simplified_text_prompt": "a tower",
+        "full_text_prompt": "a yellow tower",
+        "color_object_dict": {
+            "tower": {
+                "HEX": "FFFF00",
+                "RGB": [
+                    255,
+                    255,
+                    0
+                ],
+                "color_name": "yellow",
+                "base_color_name": "yellow"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/a_tower.png",
+        "mask_tower": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/mask_tower.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_tower_blue": {
+        "model_name": "real",
+        "original_prompt": "a tower",
+        "simplified_text_prompt": "a tower",
+        "full_text_prompt": "a blue tower",
+        "color_object_dict": {
+            "tower": {
+                "HEX": "0000FF",
+                "RGB": [
+                    0,
+                    0,
+                    255
+                ],
+                "color_name": "blue",
+                "base_color_name": "blue"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/a_tower.png",
+        "mask_tower": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/mask_tower.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_tower_green": {
+        "model_name": "real",
+        "original_prompt": "a tower",
+        "simplified_text_prompt": "a tower",
+        "full_text_prompt": "a green tower",
+        "color_object_dict": {
+            "tower": {
+                "HEX": "008000",
+                "RGB": [
+                    0,
+                    128,
+                    0
+                ],
+                "color_name": "green",
+                "base_color_name": "green"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/a_tower.png",
+        "mask_tower": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/mask_tower.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_tower_red": {
+        "model_name": "real",
+        "original_prompt": "a tower",
+        "simplified_text_prompt": "a tower",
+        "full_text_prompt": "a red tower",
+        "color_object_dict": {
+            "tower": {
+                "HEX": "FF0000",
+                "RGB": [
+                    255,
+                    0,
+                    0
+                ],
+                "color_name": "red",
+                "base_color_name": "red"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/a_tower.png",
+        "mask_tower": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/mask_tower.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    "a_tower_pink": {
+        "model_name": "real",
+        "original_prompt": "a tower",
+        "simplified_text_prompt": "a tower",
+        "full_text_prompt": "a pink tower",
+        "color_object_dict": {
+            "tower": {
+                "HEX": "FFC0CB",
+                "RGB": [
+                    255,
+                    192,
+                    203
+                ],
+                "color_name": "pink",
+                "base_color_name": "pink"
+            }
+        },
+        "image_path": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/a_tower.png",
+        "mask_tower": "/storage/shayshomerchai/projects/synthesize_colors_in_context/algorithmic_experiments/real_images/a_tower/mask_tower.png",
+        "simplified_text_prompt_idx": [
+            [
+                2
+            ]
+        ],
+        "full_text_prompt_idx": [
+            [
+                2,
+                3
+            ]
+        ]
+    }
+}

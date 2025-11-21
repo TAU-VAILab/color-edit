@@ -1,0 +1,41 @@
+{
+    "seed": 0,
+    "original_prompt": "a powderblue colored bench and a floralwhite colored umbrella and a hotpink colored bicycle",
+    "simplified_text_prompt": "a bench and a umbrella and a bicycle",
+    "full_text_prompt": "a blue bench and a white umbrella and a pink bicycle",
+    "objects_colors_dict": {
+        "bench": {
+            "HEX": "B0E0E6",
+            "RGB": [
+                176,
+                224,
+                230
+            ],
+            "color_name": "powderblue",
+            "base_color_name": "blue"
+        },
+        "umbrella": {
+            "HEX": "FFFAF0",
+            "RGB": [
+                255,
+                250,
+                240
+            ],
+            "color_name": "floralwhite",
+            "base_color_name": "white"
+        },
+        "bicycle": {
+            "HEX": "FF69B4",
+            "RGB": [
+                255,
+                105,
+                180
+            ],
+            "color_name": "hotpink",
+            "base_color_name": "pink"
+        }
+    },
+    "ref_color": "FloralWhite",
+    "close_color": "PowderBlue",
+    "distant_color": "HotPink"
+}

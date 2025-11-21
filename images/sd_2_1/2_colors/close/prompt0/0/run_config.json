@@ -1,0 +1,30 @@
+{
+    "seed": 0,
+    "original_prompt": "a hotpink colored suitcase and a tomato colored hat",
+    "simplified_text_prompt": "a suitcase and a hat",
+    "full_text_prompt": "a pink suitcase and a orange hat",
+    "objects_colors_dict": {
+        "suitcase": {
+            "HEX": "FF69B4",
+            "RGB": [
+                255,
+                105,
+                180
+            ],
+            "color_name": "hotpink",
+            "base_color_name": "pink"
+        },
+        "hat": {
+            "HEX": "FF6347",
+            "RGB": [
+                255,
+                99,
+                71
+            ],
+            "color_name": "tomato",
+            "base_color_name": "orange"
+        }
+    },
+    "ref_color": "HotPink",
+    "compare_color": "Tomato"
+}
