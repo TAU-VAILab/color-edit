@@ -137,6 +137,23 @@ The output will be as follow:</br>
 ![Graph](images/color_edit_output.png "Flow:")</br>
 The "sample_*" dirs is for debugging of each prompt, the "*edited_output" is the clean output of the method.
 
+## Evaluation(WIP)
+Fill the eval pair config evaluation/coloredit_evaluation_pipeline/pair_colors_sd_2_1.json:</br>
+![Graph](images/color_edit_eval_config.png "Flow:")
+Fill the close and distant editing output dirs and your desired out dir. 
+
+Use SAM ENV and run:
+
+    python evaluation/coloredit_evaluation_pipeline/pair/run_pair_from_config.py --config evaluation/coloredit_evaluation_pipeline/pair_colors_sd_2_1.json
+
+After the script runs you will get .xlsx file with 2 row and multiple columns(LAB/RGB/ACC),the top row for before editing results and the bottom row for after editing results. You will have 2 blocks, one for close colors and the other for distant colors.
+
+In addition to the evalution results you will get the ColorEdit visual Examples inside the close and distant editing dirs:</br>
+![Graph](images/eval_post_output.png "Flow:")</br></br>
+The File result_source.png for the source image:
+![Graph](images/result_source.png "Flow:")</br></br>
+The File result_edited.png for the edited image:
+![Graph](images/result_edited.png "Flow:")
 
 </br>
 

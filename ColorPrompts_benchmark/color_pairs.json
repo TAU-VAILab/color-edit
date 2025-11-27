@@ -1,0 +1,995 @@
+{
+    "HotPink": {
+        "close_set": [
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 57.513965888455054
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "DimGray",
+                "delta_e_cmc": 68.4394381002874
+            },
+            {
+                "name": "SteelBlue",
+                "delta_e_cmc": 72.8077890680674
+            },
+            {
+                "name": "Linen",
+                "delta_e_cmc": 71.2842266987932
+            }
+        ]
+    },
+    "LightPink": {
+        "close_set": [
+            {
+                "name": "Silver",
+                "delta_e_cmc": 28.60957623335022
+            },
+            {
+                "name": "LavenderBlush",
+                "delta_e_cmc": 27.284734520074018
+            },
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 28.627806435629516
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Black",
+                "delta_e_cmc": 85.88972347433726
+            },
+            {
+                "name": "Teal",
+                "delta_e_cmc": 66.97571826442343
+            },
+            {
+                "name": "Turquoise",
+                "delta_e_cmc": 72.613475969041
+            }
+        ]
+    },
+    "Tomato": {
+        "close_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 57.513965888455054
+            },
+            {
+                "name": "LightPink",
+                "delta_e_cmc": 54.41563381278602
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "LavenderBlush",
+                "delta_e_cmc": 77.82690520679647
+            },
+            {
+                "name": "PowderBlue",
+                "delta_e_cmc": 93.33100778743946
+            },
+            {
+                "name": "LightSteelBlue",
+                "delta_e_cmc": 86.94130886533652
+            }
+        ]
+    },
+    "BlanchedAlmond": {
+        "close_set": [
+            {
+                "name": "White",
+                "delta_e_cmc": 18.203448127441067
+            },
+            {
+                "name": "GhostWhite",
+                "delta_e_cmc": 20.747848476599824
+            },
+            {
+                "name": "Ivory",
+                "delta_e_cmc": 12.325264508981991
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Teal",
+                "delta_e_cmc": 60.789685425038904
+            },
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 73.98900324567357
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 70.53063127143082
+            }
+        ]
+    },
+    "RoyalBlue": {
+        "close_set": [],
+        "distant_set": [
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 85.76315036977654
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 97.35661299727744
+            },
+            {
+                "name": "Gray",
+                "delta_e_cmc": 70.58329013614144
+            }
+        ]
+    },
+    "SteelBlue": {
+        "close_set": [
+            {
+                "name": "SlateGray",
+                "delta_e_cmc": 21.709984842518246
+            },
+            {
+                "name": "LightSlateGray",
+                "delta_e_cmc": 21.44241121450253
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Aqua",
+                "delta_e_cmc": 61.29292120408658
+            },
+            {
+                "name": "Cyan",
+                "delta_e_cmc": 61.29292120408658
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 72.8077890680674
+            }
+        ]
+    },
+    "CornflowerBlue": {
+        "close_set": [
+            {
+                "name": "SlateGray",
+                "delta_e_cmc": 41.4003369415617
+            },
+            {
+                "name": "Gray",
+                "delta_e_cmc": 50.86059268945894
+            },
+            {
+                "name": "Silver",
+                "delta_e_cmc": 52.595673624186155
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Aqua",
+                "delta_e_cmc": 73.38783725277143
+            },
+            {
+                "name": "White",
+                "delta_e_cmc": 62.98481516640494
+            },
+            {
+                "name": "Cyan",
+                "delta_e_cmc": 73.38783725277143
+            }
+        ]
+    },
+    "SkyBlue": {
+        "close_set": [
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 26.485794297271678
+            },
+            {
+                "name": "LightCyan",
+                "delta_e_cmc": 26.31800390561017
+            },
+            {
+                "name": "MediumTurquoise",
+                "delta_e_cmc": 26.068411600207696
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Black",
+                "delta_e_cmc": 83.34588839818363
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 80.96128557882238
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 100.77477249638443
+            }
+        ]
+    },
+    "LightSkyBlue": {
+        "close_set": [
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 25.940360289378493
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Black",
+                "delta_e_cmc": 85.35344714110923
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 78.46764386266639
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 103.13659877732812
+            }
+        ]
+    },
+    "LightSteelBlue": {
+        "close_set": [
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 16.440135247289177
+            },
+            {
+                "name": "Silver",
+                "delta_e_cmc": 15.282760185047955
+            },
+            {
+                "name": "GhostWhite",
+                "delta_e_cmc": 22.80140661369154
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 66.94747429554907
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 86.94130886533652
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 79.9220725457738
+            }
+        ]
+    },
+    "LightBlue": {
+        "close_set": [
+            {
+                "name": "Linen",
+                "delta_e_cmc": 24.421656056187967
+            },
+            {
+                "name": "Snow",
+                "delta_e_cmc": 22.868631529647832
+            },
+            {
+                "name": "Silver",
+                "delta_e_cmc": 16.960460989177836
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 77.33896901260377
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 85.29307679215665
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 92.43560142105771
+            }
+        ]
+    },
+    "PowderBlue": {
+        "close_set": [
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 6.983119901574015
+            },
+            {
+                "name": "Silver",
+                "delta_e_cmc": 18.269319519547185
+            },
+            {
+                "name": "LavenderBlush",
+                "delta_e_cmc": 23.51409691481014
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Black",
+                "delta_e_cmc": 87.64432354613413
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 93.33100778743946
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 81.05090937157065
+            }
+        ]
+    },
+    "Teal": {
+        "close_set": [
+            {
+                "name": "LightSlateGray",
+                "delta_e_cmc": 27.805058705394096
+            },
+            {
+                "name": "SlateGray",
+                "delta_e_cmc": 27.174530716849425
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 94.69171045827461
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 103.56072452227444
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 60.789685425038904
+            }
+        ]
+    },
+    "MediumTurquoise": {
+        "close_set": [
+            {
+                "name": "SkyBlue",
+                "delta_e_cmc": 26.068411600207696
+            },
+            {
+                "name": "LightBlue",
+                "delta_e_cmc": 27.53848336294974
+            },
+            {
+                "name": "PowderBlue",
+                "delta_e_cmc": 25.04142286737841
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 102.26259979533572
+            },
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 63.87640007716619
+            },
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 90.16911592893103
+            }
+        ]
+    },
+    "Turquoise": {
+        "close_set": [
+            {
+                "name": "GhostWhite",
+                "delta_e_cmc": 48.24096806845517
+            },
+            {
+                "name": "Gray",
+                "delta_e_cmc": 52.20794918113631
+            },
+            {
+                "name": "Linen",
+                "delta_e_cmc": 48.91090589165893
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 115.31987764089335
+            },
+            {
+                "name": "LightPink",
+                "delta_e_cmc": 72.613475969041
+            },
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 72.63888703843011
+            }
+        ]
+    },
+    "Aqua": {
+        "close_set": [
+            {
+                "name": "PowderBlue",
+                "delta_e_cmc": 34.89945275766326
+            },
+            {
+                "name": "SkyBlue",
+                "delta_e_cmc": 36.03196467982886
+            },
+            {
+                "name": "LavenderBlush",
+                "delta_e_cmc": 55.86741167022265
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "DimGray",
+                "delta_e_cmc": 68.50594280213136
+            },
+            {
+                "name": "LightPink",
+                "delta_e_cmc": 79.07172615411781
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 115.26676674295935
+            }
+        ]
+    },
+    "Cyan": {
+        "close_set": [
+            {
+                "name": "LightBlue",
+                "delta_e_cmc": 37.99868130106654
+            },
+            {
+                "name": "Silver",
+                "delta_e_cmc": 51.884177190866446
+            },
+            {
+                "name": "SkyBlue",
+                "delta_e_cmc": 36.03196467982886
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "LightPink",
+                "delta_e_cmc": 79.07172615411781
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 103.9898346645664
+            },
+            {
+                "name": "DimGray",
+                "delta_e_cmc": 68.50594280213136
+            }
+        ]
+    },
+    "PaleTurquoise": {
+        "close_set": [
+            {
+                "name": "GhostWhite",
+                "delta_e_cmc": 22.467387101962316
+            },
+            {
+                "name": "Silver",
+                "delta_e_cmc": 24.06864254919589
+            },
+            {
+                "name": "Ivory",
+                "delta_e_cmc": 23.826252842155114
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 97.82807770837314
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 87.50701056217102
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 92.39847028162288
+            }
+        ]
+    },
+    "LightCyan": {
+        "close_set": [
+            {
+                "name": "GhostWhite",
+                "delta_e_cmc": 11.192277660599235
+            },
+            {
+                "name": "LavenderBlush",
+                "delta_e_cmc": 16.17478415282626
+            },
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 16.955199746190594
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 87.43590630765489
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 81.26971449678453
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 91.36410250115483
+            }
+        ]
+    },
+    "Linen": {
+        "close_set": [
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 11.100462881294481
+            },
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 12.440351183992034
+            },
+            {
+                "name": "PowderBlue",
+                "delta_e_cmc": 23.017404390315928
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 89.1104297367358
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 76.70286629449701
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 71.2842266987932
+            }
+        ]
+    },
+    "WhiteSmoke": {
+        "close_set": [
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 17.356759482696436
+            },
+            {
+                "name": "LightCyan",
+                "delta_e_cmc": 10.58560475023406
+            },
+            {
+                "name": "LightBlue",
+                "delta_e_cmc": 20.304315224222986
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 72.14084845284557
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 81.73169456945014
+            },
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 60.954042896826685
+            }
+        ]
+    },
+    "LavenderBlush": {
+        "close_set": [
+            {
+                "name": "LightSteelBlue",
+                "delta_e_cmc": 23.988185169227627
+            },
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 26.858666433698065
+            },
+            {
+                "name": "LightBlue",
+                "delta_e_cmc": 23.45613182952142
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 66.64365000681006
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 96.25059577417557
+            },
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 83.21323189405581
+            }
+        ]
+    },
+    "GhostWhite": {
+        "close_set": [
+            {
+                "name": "PowderBlue",
+                "delta_e_cmc": 19.80378437312509
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 20.747848476599824
+            },
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 22.467387101962316
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 71.15355745081732
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 97.82218941286752
+            },
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 83.38162147059843
+            }
+        ]
+    },
+    "FloralWhite": {
+        "close_set": [
+            {
+                "name": "PowderBlue",
+                "delta_e_cmc": 22.96188832050472
+            },
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 24.341330208550637
+            },
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 14.852873736801046
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 73.97036710017576
+            },
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 66.3894774861162
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 98.54866019488155
+            }
+        ]
+    },
+    "MintCream": {
+        "close_set": [
+            {
+                "name": "LightCyan",
+                "delta_e_cmc": 7.513060828600948
+            },
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 15.23338658650996
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 17.77651012352959
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 77.16275620456614
+            },
+            {
+                "name": "Black",
+                "delta_e_cmc": 99.25174580996209
+            },
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 64.21081105130337
+            }
+        ]
+    },
+    "Snow": {
+        "close_set": [
+            {
+                "name": "LightBlue",
+                "delta_e_cmc": 22.868631529647832
+            },
+            {
+                "name": "LightCyan",
+                "delta_e_cmc": 12.283989585505411
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 17.109755623632815
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 62.41587569424149
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 81.15409560122126
+            },
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 86.7409671140314
+            }
+        ]
+    },
+    "Ivory": {
+        "close_set": [
+            {
+                "name": "Silver",
+                "delta_e_cmc": 23.21621088488957
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 12.325264508981991
+            },
+            {
+                "name": "LightGray",
+                "delta_e_cmc": 16.89202667339636
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "CornflowerBlue",
+                "delta_e_cmc": 68.93050896805613
+            },
+            {
+                "name": "SteelBlue",
+                "delta_e_cmc": 61.45413230778383
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 77.1020161327903
+            }
+        ]
+    },
+    "White": {
+        "close_set": [
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 22.922339910726738
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 18.203448127441067
+            },
+            {
+                "name": "LightSteelBlue",
+                "delta_e_cmc": 26.4077022558779
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 73.69758899842324
+            },
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 87.58376147161582
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 83.24537839577152
+            }
+        ]
+    },
+    "Black": {
+        "close_set": [
+            {
+                "name": "Teal",
+                "delta_e_cmc": 56.854938289989384
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "SteelBlue",
+                "delta_e_cmc": 61.687521678117086
+            },
+            {
+                "name": "LightPink",
+                "delta_e_cmc": 85.88972347433726
+            },
+            {
+                "name": "PaleTurquoise",
+                "delta_e_cmc": 92.39847028162288
+            }
+        ]
+    },
+    "DimGray": {
+        "close_set": [
+            {
+                "name": "Linen",
+                "delta_e_cmc": 51.280657640028785
+            },
+            {
+                "name": "BlanchedAlmond",
+                "delta_e_cmc": 52.39648377130857
+            },
+            {
+                "name": "MintCream",
+                "delta_e_cmc": 54.91519279698148
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 68.4394381002874
+            },
+            {
+                "name": "Aqua",
+                "delta_e_cmc": 68.50594280213136
+            },
+            {
+                "name": "Cyan",
+                "delta_e_cmc": 68.50594280213136
+            }
+        ]
+    },
+    "SlateGray": {
+        "close_set": [
+            {
+                "name": "LightSteelBlue",
+                "delta_e_cmc": 26.046770591281525
+            },
+            {
+                "name": "Teal",
+                "delta_e_cmc": 27.174530716849425
+            },
+            {
+                "name": "SteelBlue",
+                "delta_e_cmc": 21.709984842518246
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 61.831071031595535
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 67.57644295725595
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 83.27660146554985
+            }
+        ]
+    },
+    "Gray": {
+        "close_set": [
+            {
+                "name": "LightSteelBlue",
+                "delta_e_cmc": 29.177382985903773
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 74.6717144587197
+            },
+            {
+                "name": "Cyan",
+                "delta_e_cmc": 62.614382987166756
+            },
+            {
+                "name": "Aqua",
+                "delta_e_cmc": 62.614382987166756
+            }
+        ]
+    },
+    "LightSlateGray": {
+        "close_set": [
+            {
+                "name": "Teal",
+                "delta_e_cmc": 27.805058705394096
+            },
+            {
+                "name": "LightSteelBlue",
+                "delta_e_cmc": 22.925494610463602
+            },
+            {
+                "name": "SteelBlue",
+                "delta_e_cmc": 21.44241121450253
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 61.732985181347274
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 83.43153815322407
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 67.17343335878275
+            }
+        ]
+    },
+    "LightGray": {
+        "close_set": [
+            {
+                "name": "LightPink",
+                "delta_e_cmc": 28.627806435629516
+            },
+            {
+                "name": "Ivory",
+                "delta_e_cmc": 16.89202667339636
+            },
+            {
+                "name": "LavenderBlush",
+                "delta_e_cmc": 12.944109744147875
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 77.4660087447468
+            },
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 79.3593458922518
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 67.8508117899656
+            }
+        ]
+    },
+    "Silver": {
+        "close_set": [
+            {
+                "name": "FloralWhite",
+                "delta_e_cmc": 21.384325632723026
+            },
+            {
+                "name": "Linen",
+                "delta_e_cmc": 18.684180292658297
+            },
+            {
+                "name": "SkyBlue",
+                "delta_e_cmc": 25.983386843976437
+            }
+        ],
+        "distant_set": [
+            {
+                "name": "RoyalBlue",
+                "delta_e_cmc": 76.42989636566406
+            },
+            {
+                "name": "HotPink",
+                "delta_e_cmc": 66.2519859275362
+            },
+            {
+                "name": "Tomato",
+                "delta_e_cmc": 75.77382559217611
+            }
+        ]
+    }
+}

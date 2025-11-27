@@ -1,0 +1,8 @@
+{
+    "run_name" : "sd_2_1",
+    "edited_root_pair_dirs" : {
+        "close" : "outputs/ColorEdit/sd_2_1/close/20241223_134440_close_sd_2_1/close_sd_2_1_edited_output",
+        "distant" : "outputs/ColorEdit/sd_2_1/distant/20241223_134505_distant_sd_2_1/distant_sd_2_1_edited_output"
+    },
+    "out_dir" : "outputs/eval/sd_2_1/"
+}
