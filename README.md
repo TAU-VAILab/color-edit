@@ -160,9 +160,9 @@ The File result_edited.png for the edited image:
 ## BibTeX
 If you find our work useful in your research, please consider citing:
 
-    @misc{chai2025colorbindexploringcolor,
+    @misc{shomerchai2025colorbindexploringcolor,
         title={Color Bind: Exploring Color Perception in Text-to-Image Models}, 
-        author={Shay Shomer Chai and Wenxuan Peng and Bharath Hariharan and Hadar Averbuch-Elor},
+        author={Shay Shomer-Chai and Wenxuan Peng and Bharath Hariharan and Hadar Averbuch-Elor},
         year={2025},
         eprint={2508.19791},
         archivePrefix={arXiv},
